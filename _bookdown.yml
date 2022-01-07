@@ -1,0 +1,5 @@
+book_filename: "GEO302"
+delete_merged_file: true
+language:
+  ui:
+output_dir: "docs"
