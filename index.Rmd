@@ -42,6 +42,40 @@ At the end of the semester, I will have hundred of essays to verify from all stu
 IMPORTANT: Essays submitted past the due date will not be considered towards your grade. You will need a written excuse for each essay you turn past the due date.
 
 
+
+# Grading {-}
+Your grading in this class is as follow:
+
+10%	Group Film (worth 10 points)								
+10%	Extinction presentation	 (worth 10 points)				
+20% Class participation	 (worth 20 points)					
+60%	Discussion exam  (worth 60 points)		
+
+Class participation relates to each of the 13 essays that you should have turned in on time (unless you have a valid excuse). Each essay you turned in on time is worth 1.53% of your total grade (or 1.53 points).
+
+Discussion exam relates to your capacity to respond to any of the questions provided for each lecture. Responding correctly to the questions of any given chapter/lecture is worth 6% of your grade.
+
+There were 13 lectures, but you can choose to be tested in only 10. That will reduce the burden of materials you have to study, and avoid topics that may have been hard to learn.
+
+I will simply select any question randomly from the topics you tell me you are skilled about.
+
+AGAIN, YOU CHOOSE THE LECTURES, AND I SELECT THE QUESTIONS.
+
+If you fail to correctly respond to any of the questions, you will have to go back and prepare again.
+
+You may be able to take this exam multiple times as time allows until the last week of the semester. There will be no penalty to take the test again. 
+
+I want to help you get the grade that you want but I also want for you to own/deserve the grade you want. 
+
+You need to add up all the points of the different components of the class, which should be match to the scale below to define your letter grade for this class.
+
+```{r, out.width = "50%", echo= FALSE, fig.align = 'center',fig.cap = 'Grading by letters'}
+knitr::include_graphics("images/Grading.png")
+```
+
+
+
+
 # Extra credit {-}
 All lectures have been filmed and are posted in the pages below. All pages are loaded with data, and they all follow a general outline that I describe at the start of each lecture.
 
@@ -144,39 +178,6 @@ The errors are simply statements I made that you should be able to challenge wit
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WS0x7DQJHMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
-
-
-
-
-# Grading {-}
-Your grading in this class is as follow:
-
-10%	Group Film (worth 10 points)								
-10%	Extinction presentation	 (worth 10 points)				
-20% Class participation	 (worth 20 points)					
-60%	Discussion exam  (worth 60 points)		
-
-Class participation relates to each of the 13 essays that you should have turned in on time (unless you have a valid excuse). Each essay you turned in on time is worth 1.53% of your total grade (or 1.53 points).
-
-Discussion exam relates to your capacity to respond to any of the questions provided for each lecture. Responding correctly to the questions of any given chapter/lecture is worth 6% of your grade.
-
-There were 13 lectures, but you can choose to be tested in only 10. That will reduce the burden of materials you have to study, and avoid topics that may have been hard to learn.
-
-I will simply select any question randomly from the topics you tell me you are skilled about.
-
-AGAIN, YOU CHOOSE THE LECTURES, AND I SELECT THE QUESTIONS.
-
-If you fail to correctly respond to any of the questions, you will have to go back and prepare again.
-
-You may be able to take this exam multiple times as time allows until the last week of the semester. There will be no penalty to take the test again. 
-
-I want to help you get the grade that you want but I also want for you to own/deserve the grade you want. 
-
-You need to add up all the points of the different components of the class, which should be match to the scale below to define your letter grade for this class.
-
-```{r, out.width = "50%", echo= FALSE, fig.align = 'center',fig.cap = 'Grading by letters'}
-knitr::include_graphics("images/Grading.png")
-```
 
 
 
