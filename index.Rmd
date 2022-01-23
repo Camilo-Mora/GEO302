@@ -96,7 +96,7 @@ The errors are simply statements I made that you should be able to challenge wit
 </center>    
     
 ## 7: Climate change {-}
-[Slides](http://www.soc.hawaii.edu/mora/GEOG302/Class%2007%20Climate%20change.pptx) <br>
+[Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 07 Climate change.pptx) <br>
 [Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 7.xlsx)
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/TTYmvMsdlBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
@@ -139,11 +139,14 @@ The errors are simply statements I made that you should be able to challenge wit
 </center>        
 
 # 13: Ultimate solutions {-}
-[Slides](http://www.soc.hawaii.edu/mora/GEOG302/Class%2013%20Future%20scenarios%20for%20our%20planet.pptx) <br>
+[Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 13 Future scenarios for our planet.pptx) <br>
 [Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 13.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WS0x7DQJHMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+
+
+
 
 # Grading {-}
 Your grading in this class is as follow:
