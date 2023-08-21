@@ -29,13 +29,13 @@ In this class, there are three tasks you have to do:
 
 1. One minute Extinction presentation. For this, you need to investigate a species that has gone recently extinct and tell us why. The goal here is for you to make us very sad. Use images and videos as needed. You have one minute for this presentation.
 
-2. One minute film project. For this, you need to work in a group of four people (you included) to develop a one-minute commercial outlining an environmental problem.
+2. One minute film project. For this, you need to work in a group of four people (you included) to develop a one-minute commercial outlining any problem and its solution. I need you to use **critical thinking** while outlining the questions, the answer and how to present it. I need you to brainstorm constantly with your peers..
 
 3. Brief summary, or 10 questions of your own, about each lecture. These essays are due anytime each Friday. Send your essays using the following Instructions:
 a. use GE0302 as the subject.
 b. Use the first line of the email to indicate the lecture number.
 c. Use the same email to submit all assays (simply reply to the first email), this will ensure all your essays get concatenated in the same email thread (email chain).
-d. once you send your essay to my email, confirm the date in the google sheet provided. In that sheet, for each lecture, besides your name, you need to write the date you submitted your essay to me. This date should match the date you send me the essay. This sheet is kept so you know how you are doing.
+d. Once you send your essay to my email, confirm the date in the Google sheet provided. In that sheet, for each lecture, besides your name, you need to write the date you submitted your essay to me. This date should match the date you send me the essay. This sheet is kept so you know how you are doing.
 
 At the end of the semester, I will have hundred of essays to verify from all students in the class, so at that time I would need all your essays to be grouped in the same email chain.
 
@@ -46,12 +46,13 @@ IMPORTANT: Essays submitted past the due date will not be considered towards you
 # Grading {-}
 Your grading in this class is as follow:
 
-10%	Group Film (worth 10 points)								
+50%	Discussion exam  (worth 50 points)		
+30%	Group Film (worth 30 points)								
 10%	Extinction presentation	 (worth 10 points)				
-20% Class participation	 (worth 20 points)					
-60%	Discussion exam  (worth 60 points)		
+10% Class participation	 (worth 10 points)					
 
-Class participation relates to each of the 13 essays that you should have turned in on time (unless you have a valid excuse). Each essay you turned in on time is worth 1.53% of your total grade (or 1.53 points).
+
+Class participation relates to each of the 13 essays that you should have turned in on time (unless you have a valid excuse).
 
 Discussion exam relates to your capacity to respond to any of the questions provided for each lecture. Responding correctly to the questions of any given chapter/lecture is worth 6% of your grade.
 
