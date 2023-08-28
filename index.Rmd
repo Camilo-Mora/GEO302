@@ -31,11 +31,10 @@ In this class, there are three tasks you have to do:
 
 2. One minute film project. For this, you need to work in a group of four people (you included) to develop a one-minute commercial outlining any problem and its solution. I need you to use **critical thinking** while outlining the question, the answer and how to present it. I need you to brainstorm constantly with your peers..
 
-3. Brief summary, or 10 questions of your own, about each lecture. These essays are due anytime each Friday. Send your essays using the following Instructions:
+3. If you miss any class, you need to deliver a brief summary, or 10 questions of your own, about each lecture. These essays are due anytime on the Friday of that week you missed. Send your essays using the following Instructions:
 a. Use GE0302 as the subject.
 b. Use the first line of the email to indicate the lecture number.
 c. Use the same email to submit all assays (simply reply to the first email), this will ensure all your essays get concatenated in the same email thread (email chain).
-d. Once you send your essay to my email, confirm the date in the Google sheet provided. In that sheet, for each lecture, besides your name, you need to write the date you submitted your essay to me. This date should match the date you send me the essay. This sheet is kept so you know how you are doing.
 
 At the end of the semester, I will have hundred of essays to verify from all students in the class, so at that time I would need all your essays to be grouped in the same email chain.
 
@@ -44,17 +43,15 @@ IMPORTANT: Essays submitted past the due date will not be considered towards you
 
 
 # Grading {-}
-Your grading in this class is as follow:
+Your grading in this class is based on the following :
 
-50%	Discussion exam  (worth 50 points)		
-30%	Group Film (worth 30 points)								
-10%	Extinction presentation	 (worth 10 points)				
-10% Class participation	 (worth 10 points)					
+Discussion exam 
+Group Film	
+Extinction presentation	 
 
 
-Class participation relates to each of the 13 essays that you should have turned in on time (unless you have a valid excuse).
 
-Discussion exam relates to your capacity to respond to any of the questions provided for each lecture. Responding correctly to the questions of any given chapter/lecture is worth 6% of your grade.
+Discussion exam relates to your capacity to respond to any of the questions provided for each lecture. 
 
 There were 13 lectures, but you can choose to be tested in only 10. That will reduce the burden of materials you have to study, and avoid topics that may have been hard to learn.
 
@@ -68,7 +65,7 @@ You may be able to take this exam multiple times as time allows until the last w
 
 I want to help you get the grade that you want but I also want for you to own/deserve the grade you want. 
 
-You need to add up all the points of the different components of the class, which should be match to the scale below to define your letter grade for this class.
+You can use the number of chapters you claim you know to get the grade that you will get on the class using the table below. Say you can answer correctly to any question of ten chapters, then your grade will be an A. If on top of that you deliver your projects (Extinction and 1 minute commercial), then your grade will be an A+.
 
 ```{r, out.width = "50%", echo= FALSE, fig.align = 'center',fig.cap = 'Grading by letters'}
 knitr::include_graphics("images/Grading.png")
