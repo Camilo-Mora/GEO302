@@ -8,4 +8,4 @@ bookdown::gitbook:
       before: |
         <li><a>Global Environmental Issues</a></li>
       after: |
-        <li><img src="images/MoraLab.png" width="270"></li>
+        <li><a href="https://camilo-mora.github.io/MoraLab/"><img src="images/MoraLab.png" width="270"></a></li>
