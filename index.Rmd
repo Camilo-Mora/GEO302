@@ -18,69 +18,119 @@ title.innerHTML = '<img src="images/Water, their lost, causes and consequences.j
 
 This course reviews the fundamental processes that maintain populations, species, and communities in nature. It will then present how different human threats influence each of those patterns and processes, illustrating with up-to-date statistics the current extent of human threats, status of biodiversity worldwide and solutions to the current biological crisis of the planet.
 
-[Sillabus](https://github.com/Camilo-Mora/GEO302/raw/main/main/Conservation Biology Sillabous.doc) <br>
+**LEARNING OBJECTIVES**: Students will: be able to describe examples of how Earth systems are connected, how natural resources are created, used and misused by people; be able to explain some of the potential ecological outcomes of different traditional resource management practices; and integrate theory and evidence to evaluate tradeoffs between delivering food, energy, and water production to humanity while ensuring the long term viability of nature.
+
+[Sillabus](https://github.com/Camilo-Mora/GEO302/raw/main/main/Conservation Biology Sillabous.pdf) <br>
 [Introduction Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 00 Intro Observation and Interpretation.pptx) <br>
 
 
 
-# Your tasks {-}
+# Tasks and Grading {-}
 
-In this class, there are three tasks you have to do:
+This is a very large online class, so it is important that you follow instructions carefully. Please do not rush through this section, take your time to read carefully. 
 
-1. One minute Extinction presentation. For this, you need to investigate a species that has gone recently extinct and tell us why. The goal here is for you to make us very sad. Use images and videos as needed. You have one minute for this presentation.
+**1) Written responses**. 
 
-2. One minute film project. For this, you need to work in a group of four people (you included) to develop a one-minute commercial outlining any problem and its solution. I need you to use **critical thinking** while outlining the question, the answer and how to present it. I need you to brainstorm constantly with your peers..
+Each lecture is accompanied with a set of questions whose answers are contained within the videos. Technically, you should watch one video a week; you can watch more if you like, but no less. This means, at least once a week, you need to deliver those responses in an email. In this email, write the question number, the question, and then the response. For instance: 
 
-3. If you miss any class, you need to deliver a brief summary, or 10 questions of your own, about each lecture. These essays are due anytime on the Friday of that week you missed. Send your essays using the following Instructions:
-a. Use GE0302 as the subject.
-b. Use the first line of the email to indicate the lecture number.
-c. Use the same email to submit all assays (simply reply to the first email), this will ensure all your essays get concatenated in the same email thread (email chain).
+**Question 1**
 
-At the end of the semester, I will have hundred of essays to verify from all students in the class, so at that time I would need all your essays to be grouped in the same email chain.
+**How many species are there?**
 
-IMPORTANT: Essays submitted past the due date will not be considered towards your grade. You will need a written excuse for each essay you turn past the due date.
+**Response**: *We do not fully know as most of the species on Earth remain to be discovered and identified, and most indirect methods have critical flaws. With that said, the best approximation is around 8.1 million species.*
 
+The weekly written responses are mandatory in this class. 
 
 
-# Grading {-}
-Your grading in this class is based on the following :
+**2) Video exam**.
 
-Discussion exam 
-Group Film	
-Extinction presentation	 
+After you finish watching all videos, you should study all materials of the chapters, as you will do for any other examination.
+
+For each chapter you feel you know the content very well, you need to record a video of yourself responding to each of the questions of the given chapter.
+
+For this, simply place your camera in front of you, read the question from a paper or your own screen, then respond to it without any external help.
+
+At the time you respond to the question you should not read from any notes, screens, headphones, etc. The point is to show that you know by heart the answers to those questions, please do not cheat. I may ask to meet with you online, to verify that you know the responses. For this, I will simply ask that your respond to me to any of the questions you claimed in the videos you know. So please be honest when you do these videos, meaning you should truly know the content you claim you know.
+
+Do not over think these videos; think of it, like if you were in the classroom and were responding to an specific question. These videos should not take more than five minutes each.
 
 
+Create a video for each chapter you feel confident you know the content well. Use the number of chapters for which you have independent videos, to get the grade that you will get on the class using the table below. Say you can answer correctly to any question of ten chapters, then your grade will be an A. 
 
-Discussion exam relates to your capacity to respond to any of the questions provided for each lecture. 
-
-There were 13 lectures, but you can choose to be tested in only 10. That will reduce the burden of materials you have to study, and avoid topics that may have been hard to learn.
-
-I will simply select any question randomly from the topics you tell me you are skilled about.
-
-AGAIN, YOU CHOOSE THE LECTURES, AND I SELECT THE QUESTIONS.
-
-If you fail to correctly respond to any of the questions, you will have to go back and prepare again.
-
-You may be able to take this exam multiple times as time allows until the last week of the semester. There will be no penalty to take the test again. 
-
-I want to help you get the grade that you want but I also want for you to own/deserve the grade you want. 
-
-You can use the number of chapters you claim you know to get the grade that you will get on the class using the table below. Say you can answer correctly to any question of ten chapters, then your grade will be an A. If on top of that you deliver your projects (Extinction and 1 minute commercial), then your grade will be an A+.
 
 ```{r, out.width = "50%", echo= FALSE, fig.align = 'center',fig.cap = 'Grading by letters'}
 knitr::include_graphics("images/Grading.png")
 ```
 
+In a single email you should deliver the files (or Youtube URLs) for all exam videos. In the first line of the email indicate that the email is about the exam videos, how many chapters did you respond to (made videos about), and the files or URLs to each individual video. For instance, the body of the email to deliver these videos should be:
+
+**Exam videos for seven chapters**
+
+*Chapters 1, 3, 5, 6, 7, 8, 9*
+
+*Attach videos or list the YouTube URLs*
+
+<br><br>
+
+**3) One minute Extinction presentation**. 
+
+For this, you need to investigate a species that has gone recently extinct and tell us why. The goal here is for you to make us very sad. Use images, songs and videos as needed. 
+
+You should deliver a one minute video. 
+
+Feel free to use video AIs. Again the goal is to deliver a short video of a species that has gone extinct because of us, and make us feel bad about it. 
+
+The start to any environmental solution is to create awareness and empathy; your video is aimed to do so. 
+
+This video will raise your expected grade in this class one level up (more on this below).
+
+Here are some examples from prior clases:
+
+[Laura Friberg](https://www.youtube.com/watch?v=D33UMuiQzEo)
 
 
+[Ashley Badis](https://www.youtube.com/watch?v=VUkzkvIK7zk)
 
-# Extra credit {-}
+**4) Extra credit**
+
 All lectures have been filmed and are posted in the pages below. All pages are loaded with data, and they all follow a general outline that I describe at the start of each lecture.
 
-However, I appreciate that watching a video for nearly an hour could be tedious. To motivate you to watch these lectures when you can better pay attention and can remain focus, I have introduced three errors in the lectures. If you identify any of such errors, please email it to me. Pointing any of such errors will give you a 5% buffer in your grade.
+However, I appreciate that watching a video for nearly an hour could be tedious. To motivate you to watch these lectures when you can better pay attention and can remain focus, I have introduced three errors in the lectures. 
 
 The errors are simply statements I made that you should be able to challenge with the data given along the different lectures. Please do not reveal the errors to the rest of the class.
 
+If you identify any of such errors, please email it to me. Discovering any of such errors will raise your grade one level up.
+
+
+**HOW TO DELIVER YOUR TASKS**
+
+This is a very large class, so it is important that you follow instructions carefully.
+
+All your deliverables in this class:
+
+1. your weekly responses (mandatory),  
+2. extinction video, 
+3. error description (if any), and
+3. your videos exam
+
+should be send by email to cmora@hawaii.edu using as subject of the email: “2025_GEO302/SUST314” plus your “last name”. For instance, the subject of the first email should be:
+
+"2025_GEO302/SUST314_Mora" 
+
+No need for greetings, in the first line of the email simply write the task being delivered (e.g. Written responses for chapter 1), followed by the responses.  
+
+Any future deliverable should be send in the same email, simply look in your inbox for the last message sent, click on reply, remove any content, and write the details of the new content. For instance, *Written responses for chapter 2*, followed by the responses of chapter 2. 
+
+Do send each deliverable on its own email. For instance, say one week you decide to watch a video and do the extinction video. You should send an email for the written responses of the given chapter, then send another email with the URL for extinction video.
+
+The idea is that at the end of the semester all your deliverables should be independent but contained in the same email thread.
+
+**Your grade**
+Once you finish watching all videos,  delivered the weekly written responses for the chapters, and the exam videos, you will send me a final Email with your expected grade. In the first line, indicate that this is your final grade, the grade you want, followed by the justification. For instance,
+
+**My final grade**
+**B**
+**Justification**: *I would like a B in this class, I delivered the written responses for all chapters and feel confident about the content of six chapters for which I delivered six independent videos (C+ grade). I also send the extinction project which raises my grade one level up to B.*
 
 # 1: Biodiversity patterns and drivers {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class%2001%20global%20biodiversity.pptx) <br>
