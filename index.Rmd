@@ -134,97 +134,110 @@ Once you finish watching all videos,  delivered the weekly written responses for
 
 # 1: Biodiversity patterns and drivers {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class%2001%20global%20biodiversity.pptx) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 1.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions_01.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W9FUcPHeIKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Transcript](https://github.com/Camilo-Mora/GEO302/raw/main/main/Transcript_Lecture_01.txt)
 </center>
 
 # 2: Biodiversity, its value and need for conservation {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 02 Biodiversity, its value and need for conservation.ppt) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 2.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions_02.xlsx)
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MbaomTh04Zo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Transcript](https://github.com/Camilo-Mora/GEO302/raw/main/main/Transcript_Lecture_02.txt)
 </center>    
     
 # 3: Global trends in marine and terrestrial biodiversity {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 03 Trends in biodiversity.ppt) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 3.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions_03.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9MMclHY_U5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Transcript](https://github.com/Camilo-Mora/GEO302/raw/main/main/Transcript_Lecture_03.txt)
 </center>    
     
     
 # 4: Extinction {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 04 Extinciton.pptx) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 4.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions_04.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7JYyegDSW6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+[Transcript](https://github.com/Camilo-Mora/GEO302/raw/main/main/Transcript_Lecture_04.txt)
 </center>    
     
 # Causes of biodiversity loss:  {-}
 ## 5: Overexploitation {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 05 Overexploitation.pptx) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 5.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions_05.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zx15ipqWJsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Transcript](https://github.com/Camilo-Mora/GEO302/raw/main/main/Transcript_Lecture_05.txt)
 </center>    
     
 ## 6: Habitat loss {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 06 Habitat loss.pptx) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 6.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions_06.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/knN8lZz5AkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Transcript](https://github.com/Camilo-Mora/GEO302/raw/main/main/Transcript_Lecture_06.txt)
 </center>    
     
 ## 7: Climate change {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 07 Climate change.pptx) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 7.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions_07.xlsx)
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/TTYmvMsdlBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Transcript](https://github.com/Camilo-Mora/GEO302/raw/main/main/Transcript_Lecture_07.txt)
 </center>
 
 
 ## 8: Over-population  {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 08 Human overpopulation and comsuption.pptx) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 8.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions_08.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pAu7tAxmu60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Transcript](https://github.com/Camilo-Mora/GEO302/raw/main/main/Transcript_Lecture_08.txt)
 </center>    
     
 # Solutions to biodiversity loss:  {-}
 ## 9:  Overexploitation {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 09 Harvesting regulation.pptx) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 9.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions_09.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uLHaDBTZD2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Transcript](https://github.com/Camilo-Mora/GEO302/raw/main/main/Transcript_Lecture_09.txt)
 </center>
 
 ## 10: Habitat loss {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 10 Area protection.ppt) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 10.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions_10.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ykGXN-O4fOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Transcript](https://github.com/Camilo-Mora/GEO302/raw/main/main/Transcript_Lecture_10.txt)
 </center>
 
 ## 11: Climate change {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 11 regulation CO2 emmisions.pptx) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 11.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions_11.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U55NdjuEy-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Transcript](https://github.com/Camilo-Mora/GEO302/raw/main/main/Transcript_Lecture_11.txt)
 </center>
 
 ## 12: Overpopulation  {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 12 Regulating Overpopulation.pptx) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 12.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions_12.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KDLe0ibzbXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Transcript](https://github.com/Camilo-Mora/GEO302/raw/main/main/Transcript_Lecture_12.txt)
 </center>        
 
 # 13: Ultimate solutions {-}
 [Slides](https://github.com/Camilo-Mora/GEO302/raw/main/main/Class 13 Future scenarios for our planet.pptx) <br>
-[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions Topic 13.xlsx)
+[Exam questions](https://github.com/Camilo-Mora/GEO302/raw/main/main/ExamQuestions_13.xlsx)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WS0x7DQJHMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Transcript](https://github.com/Camilo-Mora/GEO302/raw/main/main/Transcript_Lecture_13.txt)
 </center>
 
 
