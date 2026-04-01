@@ -1,0 +1,846 @@
+
+Introduction
+0:01
+all right so this is the second lecture of global environmental issues in the last
+0:06
+lecture we were looking at the timelines required for there to be life and for us
+0:12
+to get where we are this diversity of species these millions of species that we share the planet with it had taken
+0:19
+some time to get here and that was the topic of the last class this class i wanted to get deeper into this question
+0:25
+of into this attribute of life that is biodiversity right biodiversity again relates to
+0:33
+the combination of all of those species not just the one or the two but all of them and at the end of the lecture we
+0:39
+are going to be looking at um at uh how what is the value of those
+0:46
+species and the need to preserve those species let's get down to it
+0:52
+so when we talk about biodiversity there are two important questions of scientific research one of them is how
+0:59
+many species are there we kind of went into that question the last lecture today we are going to get deeper into
+1:05
+that question of how many species are there in the planet and the second question that is relevant to
+1:11
+biodiversity is where are those species where in the planet are those species and why are they on those places
+1:18
+the importance of us of knowing where they are is that then we can protect those species and if we know why these
+1:24
+species are there that information then becomes important so that we can start figuring out
+1:30
+the factors that need to be controlled such that we don't modify variables that are important for the
+1:36
+maintenance of those species on those places let's get started with the first
+Number of Species
+1:41
+question of how many species are there we already established that the total number of species in the planet the one
+1:47
+that had names is on the order of 1.5 million species and that number changes here and there but generally speaking we
+1:55
+have given names to about 1.5 million species now what is interesting or the species
+2:02
+that we have put a name to is that if you look at the year here in this figure in the y-axis this is a year
+2:09
+and this is the number of species described on those years what you see is that that relationship between number of
+2:16
+species and year is going up so basically what happens is that every year that we go and look for
+2:23
+a species we come back with a lot of new species basically what it suggests is that we
+2:29
+haven't been able to reach an asymptote so one thing that is for certain for the
+2:35
+data that we already had is that there are a lot more species to be discovered now trying to figure out that number has
+2:42
+become very important for a scientist because we already know that at the pace that we have been describing species we
+2:48
+will probably never know how many species are there in total in this planet but we want to know what that
+2:53
+number is so a scientists have come up with these different approaches to figure out that number of how many
+3:00
+species are there there they are what is called indirect calculations so again
+3:05
+directly we just don't know how many species are there but indirectly scientists have
+3:10
+different approaches to get to that number so
+3:16
+we're going to be looking at some of these indirect ways to figure out how many species are there so let's get down
+3:21
+into some specifics so the first category of studies
+3:27
+that use indirect methods to figure out how many species are there is what it relates to biodiversity patterns so in
+3:34
+the last lecture we look at some biodiversity patterns as they relate to abundance and to body size
+3:40
+now when it comes to body size it's interesting to see how
+3:46
+when you plot the number of species in the y-axis against the body size of those species
+3:52
+here so here in this figure in the x-axis you will have here close to zero the smallest
+3:59
+species and in seven the largest species and you plot the number of species at every one of those categories
+4:05
+what you will find is this relationship here so this relationship was described by a
+4:11
+guy called robert may and basically what he speculates is that this relationship should be
+4:17
+perfectly linear okay basically what he's saying is that many of these
+4:23
+species that are small basically this gap that you see here are species that remain to be discovered makes a lot of
+4:29
+sense right so when you look at this figure all of these animals that are large things like elephants giraffes
+4:35
+zebras all of these big species we can see them and we already put a name to them so
+4:41
+what he speculates is that this is species that are large we already know and are these species that are small the
+4:48
+ones that we don't know so what he does he extrapolates this relationship to figure out how many species should there
+4:54
+be in total and again basically what he's trying to to do here with this method is to predict
+5:01
+the species that are unknown and he speculates that again most of those species are small using this method he came out with a
+5:08
+number of up to 10 million species so basically this is a method and he
+5:14
+used it and he wrote his calculations and he says according to this there should be 10 million species on the planet and it was a very famous paper
+5:20
+interestingly there was another guy called kevin gaston who i think is related to this guy
+5:26
+by by being the student this kevin gaston came out with another
+5:31
+paper pointing out that this relationship that he described that were made described is not real so you can
+5:38
+see here from robert may he will expect to see like this uniform distribution but kevin gaston
+5:46
+found that this distribution is actually be modeled so what kevin gaston did here
+5:51
+he went to an island and he killed everything that was on that island it's kind of cruel experiment basically
+5:56
+killed all of the animals and plants everything that was there and measured their body sizes
+6:01
+trying to replicate again how the distribution of body sizes and looks
+6:07
+like on on a place that is completely isolated and what he found was that there were two distributions of body
+6:14
+sizes here is one distribution so the species that are relatively small and so some species are relatively relatively
+6:21
+large so because of this then this approach suggested by robert may is not valid
+6:28
+okay again well it will make sense that most of the species that remains to be this square are small unfortunately it seems
+6:34
+that they have their own distribution of body sizes that prevent us of them using body size to figure out how many species
+6:40
+are there with that being said this is one of the approaches that have been suggested to
+6:45
+calculate how many species are there and that approach suggested that there are 10 million species
+6:51
+there is also another very famous paper introduced by this guy called raven in 1985 and basically what he did
+6:59
+was the following thing he assumes he as everybody knows there is a latitudinal
+7:04
+gradient in the number of species right so we already know that most of the species are in the tropics and as you
+7:09
+move to the tropics the number of species declines basically what he's saying is that at
+7:16
+higher latitude not only there are fewer species those are the places in the world where most of the scientific
+7:21
+research is done so those species are high latitudes we know most of them is the species in the tropics the ones that
+7:28
+we don't know so he came up with this calculation basically he say
+7:33
+it's the species are in the tropics are about twice the number of species at high
+7:39
+latitudes so basically there is a ratio of two to one for every two species are in the tropics there are there is only
+7:45
+one species at higher latitudes he speculates that twitters of the 1.5 million species
+7:51
+that had a name are in temporary regions you multiply you make the calculation
+7:57
+given these two ratios then you ended up calculating estimating that in the entire planet that would be between 3
+8:03
+million and 5 million species again all i did was just to
+8:09
+assume that the ratio is constant there is a ratio between tropical and higher latitudes and most of the species
+8:18
+that we know uh have been documented a high latitude thanks to the fact that that's where
+8:23
+most of the research is being done unfortunately the downside
+8:29
+of this calculation or the flow of this calculation was a paper that we actually published in the year 2010 and what we
+8:35
+found is that for many species this latitudinal creating of species is not valid well well for many species there is a
+8:42
+gradient of a species as you move away from the tropics for some species that's not the case and here for instance you can see
+8:50
+on this figure on this global map have the highest diversity of species
+8:55
+for some taxonomic groups like for instance those ones are found in the oceans and are oceanic those species
+9:01
+normally have the high diversity of species at mid latitudes
+9:06
+so while again well there seems to be some truth to the fact that most of the species are in the tropics for some
+9:12
+groups that's not the case so that again kind of invalidates this approach to
+9:17
+figure out how many species are there using just these latitudinal gradients
+9:24
+another biodiversity pattern that has been used is the the relationship between the area that
+9:30
+you sample or how many species you sample that was a paper introduced by grassley and i appreciate one of his
+9:36
+students and in that paper they estimated that there will be 10 million species let's see how they came up with this number
+9:42
+that there are 10 million species in the oceans basically they did this in the pacific in the
+9:49
+atlantic coast of the united states as you can see this is long island here and this is new jersey so basically what
+9:55
+they did they went to this deeper part of the oceans and they collected
+10:01
+all of the animals that were in quadrants so they took i presume like pvc pipes make a quadra and they took
+10:07
+all these individuals are there and they counted basically the number of species
+10:12
+as they increase the number of quadrats that they sample and you can see the numbers here on this on this map of the areas
+10:19
+where they did the sampling what you find and you were to do this anywhere in the planet you will probably
+10:25
+find a similar relationship which is that the number of species increases as you increase the area and you start
+10:32
+saturating basically there is a point after which you start sampling but you don't find new species
+10:38
+what grassley did was to extrapolate this area of the
+10:43
+quadrats to the entire area of the world's oceans and then given that
+10:48
+calculate how many species are there and from that he estimated that there will be a hundred million species in the
+10:54
+oceans so again you were just to extrapolate the number of species given the total
+10:59
+area in the oceans using the surface that they did they will you will find that in the
+11:04
+oceans there will be a hundred million species now unfortunately they acknowledge on this
+11:11
+paper that that number was probably too high and that the most likely number was probably 10 million species so i'm going
+11:18
+to understand here just the craziness of what they did here in which they did an analysis analysis taking a number and
+11:24
+then they go on say you know that number is probably too too high the real number is probably a million
+11:30
+and again the point that i want to make to you is the fact that well there have been multiple approaches
+11:35
+to figure out how many species are there all of those approaches have limitations to really figure out how many species
+11:42
+which are the planet with let's move on to a second type of approaches the internet approaches to
+11:49
+figure out how many species are there and that's what is called biodiversity ratios again those are just general
+11:55
+groups of papers that use biodiversity ratios to figure out how many species are there and there is one famous paper
+12:01
+by this guy called erwin in 1983. let's see what what he did
+12:06
+he went to the amazon and he bought this huge machine just like a like a machine
+12:11
+gun that the ones that are used by that producer smoke and basically what
+12:18
+he did he shoot the the roofs of these trees and collected
+12:23
+all of the insects that were killed by the smoke so they had at the bottom these nets that allow him to collect all
+12:30
+of these insects once he did that he found that on average every single
+12:35
+tree they had about 160 species of beetles that were specialized to this
+12:41
+stream okay he also found that of all of the species of insects that were found on that tree
+12:48
+only four out of them four out of ten were b-rolls all right
+12:55
+further what that allows him then to to calculate then is that for every three
+13:01
+for the upper canopy of the three they were on average 400 species okay
+13:08
+in total for 14 of just the insects now
+13:13
+this is where things start getting stretched out you can see how the abs needs to get it needs to it starts
+13:19
+stretch out here because the following thing that he did was to speculate that out of the total tree
+13:25
+two out of three insects that live on the canvas only two out of three insects that live in the tree are on the canopy
+13:32
+so basically if there are 400 trees on the canopy it suggests that the entire
+13:38
+tree should have about 600 species right so you can see how he go from
+13:43
+calculating a few insects in a tree all the way down to how many species in
+13:50
+total should be there per tree now it turns out that we
+13:55
+speculate that there could be about 50 000 species of tropical trees
+14:01
+so you just multiply 600 species per tree times 50 000 species of trees that
+14:07
+of trees that will be there then the total number of species of insects alone will be 30 million this is just in the
+14:14
+tropics so this is one of the first calculations that was made again about how many species that are in total in the world
+14:20
+for a given taxonomy group and he came out with this number of 30 million for the insects now
+14:26
+the problem with this approach was that it was found and several times already that these ratios
+14:32
+are very viable sometimes from place to place sometimes from time to time so
+14:38
+these ratios of beetles to other species and these ratios from the canopy to the bottom as a result you were to change
+14:44
+those ratios the number of species and changes
+14:49
+quite a lot the total calculation that you get at the end will change quite a lot so this approach well interesting and important
+14:57
+at the time it has been criticized quite a lot now given the fact that we are really
+15:05
+eager to know how many species are there and that these indirect approaches are not really that great we started to rely
+15:12
+on the opinion of experts and what we are talking about what we're talking about here is to go and ask these guys
+15:17
+that have studied these species their entire lives and ask them how many species do you think are there and
+15:24
+from that review the experts it came out another important number that was
+15:30
+arranged between 3 million and 100 million species that range was used for the longest of times that the total
+15:36
+number of species in the planet was between 3 and 100 million species now
+15:41
+the problem with the opinion of these experts was found that sometimes even the same experts change their mind over
+15:48
+time because new evidence start coming coming out that changes their minds so it was found that this information is
+15:56
+not really that reliable either again sometimes there is multiple case examples in which the same expert tells
+16:02
+one number one now and a different number sometime later on and again just
+16:08
+to point out the fact that a expert changed their mind again because
+16:14
+evidence just come out so again this approach to figure out how many speeches are there giving and opinion obvious versus still not reliable either
+Census of Marine Life
+16:23
+now in in 2010 there was a major effort to figure out
+16:29
+how many species are there in the world and that was called the census of marine life and i was lucky to participate on
+16:34
+that project and we make an interesting discovery as part of that project that project was over 200 million dollars and
+16:40
+it took almost more than 12 years to complete and we put all the data together one of the findings was this
+16:47
+one here what we found in that paper is that if you look at the an entire kingdom of
+16:54
+life like for instance in this case animalia you will find that this is this species of animalia get closer between
+17:01
+field class borders family genus and they follow like a pyramid so basically at the top of this pyramid we have so
+17:07
+few taxonomy groups that we know very well because there are a few of them but at the bottom where the species are
+17:14
+we just don't know because they're just too many species but what we found is that if you extrapolate
+17:19
+the top of this pyramid to the bottom you can figure out how how broad the bottom is
+17:25
+from this one paper we estimated that the total number of species of animals in the world would be in the order of
+17:31
+8.7 million species the importance of that paper
+17:37
+has been that is the first scientific study that was a that was
+17:42
+validated so basically what we did from the approach that we that i just described there using the higher
+17:47
+taxonomy to predict how many species are there we applied that method to many taxonomic groups that we know very well
+17:54
+how many species are there and what we found is that that method predicted very well how many species are there for real
+17:59
+and this is what you see here so in the y-axis is the actual number of species
+18:05
+and in the x-axis how many species were predicted by our model and the dotted line is the
+18:12
+one-to-one relationship so you can see that for every taxonomy group that we know of this taxonomic and this approach
+18:19
+that we discover predicted very well how many species are there it is still an indirect method but again
+18:26
+the importance is that for the first time we can get a number of the total number of species in the planet and not
+18:32
+only that but an approach that can be validated that one discovery was published in the
+18:38
+journal plos biology and it was highlighted by the new york times and many other news channels and was this
+18:47
+highlighted as one of the top 100 discoveries of that one year again just for you to realize the significance of
+18:53
+us figuring out for the first time a total number of how many species which are the planet with
+Biodiversity
+19:00
+let's move on again into the topic of biodiversity as i
+19:06
+mentioned earlier another set of questions are important as it relates to biodiversity is where are these where
+19:12
+are these species in the world okay we know that they could be up to 8.7 million but where are they and why are
+19:20
+they there now in the last class we established that most of those species are in the
+19:25
+tropics today i just want to bring attention to the fact that understanding is not
+19:32
+robust this is a paper that we did back in 2008 and what you see here in red are all the
+19:38
+geographical locations of all of the species of fish that we have done since the beginning of times when we start
+19:44
+putting names of the species so they are i believe about 6 million records so
+19:49
+there is something called obvious and that all of this data is available on this web page but basically what it is
+19:56
+is just all the species of fish that are reported on those pixels
+20:02
+so what we did we took all the species that have been reported in any one of these grids and we plot them against
+20:09
+time right and basically from this relationship we get the number of species that have been reported there
+20:15
+but we can use mathematical models to predict how many species are expected there
+20:21
+and that allows them to calculate what we call the percent completeness basically of all the species that have
+20:27
+been reported in this pixel how many are there in comparison to the total of species that one will expect to
+20:34
+see there and again the purpose of this paper was just to see how complete is
+20:39
+our understanding of biodiversity in the world what we found was this
+20:45
+all of these areas in white are places for which there is just not enough data for us to make a calculation
+20:51
+so you can think of all of these white spaces as places in the world where we just don't know what species are there
+20:57
+and again remarkably it's just the size of that area right
+21:02
+in red are places in the world where we know less than 30 percent of the species on that place and in blue only places
+21:10
+where we know above 90 percent what we found is that of the entire
+21:15
+oceans we only know the diversity of more on just about two percent
+21:20
+of the area of the oceans so imagine how sad this is right we are sharing the planet with all these species and the
+21:27
+planet is very big and we only know where the species are very well in just two percent of the
+21:33
+surface of the planet and again just to point out the massive gap that we had
+21:39
+regarding where are these species in the planet today
+21:44
+however as i mentioned earlier if we assume that the data that is there is good despite the fact
+21:50
+that it's limited we have to we we find
+21:55
+that from that data most of the species appears appear to be located in in the
+22:02
+tropics basically as you move away from the tropics the number of species declines and that's reported
+22:09
+here on this paper this paper by william talk all the papers that were reported
+22:14
+regarding the relationship between species and latitude and what he finds is that in almost all the taxonomy
+22:20
+groups all the forms of life from mammals to birds to parasites to plants
+22:26
+almost all of them appear to have a negative relationship which is this blue line these blue bars
+22:32
+here a negative relationship between latitudes and the number of species
+22:37
+again it seems that for most taxonomy groups on this planet the relationship between latitude and
+22:43
+diversity is negative meaning that as we move away from the tropics the number of species declines
+Biodiversity hotspots
+22:52
+with that being said again given the fact that the data is still patchy and we just don't know where most of the
+22:58
+species on the planet our sun insight suggests that most of the diversity of life is
+23:03
+concentrated on very small places on our planet those places are called biodiversity hotspots
+23:11
+so the geographical location of those hotspots is highlighted on this paper by meyers and all of these are all these
+23:17
+red areas that you see here and in the oceans the hotspots are described by
+23:22
+this guy called callum rovers in a paper in a science in 2002 and are indicated here with these
+23:28
+blue and yellow backgrounds there so just for you to
+23:34
+know these are the places with the highest diversity of species in the world on land and in the oceans so you
+23:40
+want to add something to your pocket list of places that you need to go before you die you should really look at
+23:46
+these maps and try to go to these places because again those are the places with the highest diversity of species in the
+23:52
+planet on land and in the oceans
+Species richness
+23:58
+let's move on so again the data is not that great but it seems that most of the
+24:03
+species are in the tropics now the question is why in the last class we
+24:09
+just saw one variable that was temperature and we explained that maybe just the fact that the planet is always
+24:14
+at the same distance distance from from the sun that allows to have a constant temperature in the tropics that then
+24:21
+allows for life to prosper there that is just one has been found however
+24:26
+as indicated here in this map this is the actual pattern of species richness i think i think these are mammals and
+24:32
+there you go this is mammal this is the number of special mammals and you can see that the highest diversity is here in the tropics and it declines as you
+24:38
+move lower south and higher up north but when you try to explain this pattern
+24:44
+what you find is that a scientist had proposed already 32 hypotheses
+24:51
+so we already saw temperature that was one but there are many other bios that have been proposed related to climate
+24:57
+stability the amount of area that is in the tropics evolutionary processes
+25:02
+and they are all outlined here on this table and i don't know what i'm going to details because that's not really the
+25:07
+topic of this class but what i want you to know is the fact that when it comes down to knowing how many species are
+25:13
+there we the data is not that great but it suggests that they are in the tropics
+25:19
+but then when we try to explain why are the species there it turns out that we just don't know that either
+25:24
+again despite the fact that many hypotheses make sense we had 32 hypotheses to explain this and again
+25:31
+it's just the uncertainty of why are the species where they are and it's gonna bypass this we saw this that last class which
+25:39
+is just a case example of why temperature seems to be an important
+25:45
+viable driving species so i'm not going to go through that here but again the point is that and there are multiple
+25:52
+explanations for why the species are in the tropics and all of them seem to to make sense not all of them can be true
+25:57
+though now the problem of us
+Multicollinearity
+26:02
+having many hypotheses that appear to be true to explain why species are where where they
+26:09
+are one of the mathematical statistical problems is called multicollinearity let me explain what multicollinearity is
+26:16
+imagine that you have predictor 1 and predictor 2. imagine for instance that it rains right so you were to look at a
+26:23
+predictor like temperature you will find that when it rains normally it cools down
+26:28
+you can use another predictor like for instance relative humidity and when it rains the humidity goes up
+26:35
+so you were to take temperature with humidity you will find that they correlate each other but it's not
+26:40
+because one influences the other but because of the fact that the two of them are related to the fat that when it rains it equals down and it might change
+26:48
+the humidity as well so this issue of multicollinearity
+26:53
+of variables creates a problem when we try to explain which variable
+26:59
+explains richness so imagine that you have in a square here this is the response but i
+27:05
+always imagine that this is the variability in the number of species and we try to explain that variability
+27:11
+so you will find you were to do a correlation between the response variable like richness and predictor one
+27:16
+let's say temperature you will find that this temperature will explain some amount of the variation
+27:24
+of the response but given that linearity of predictor 1 with predictor 2 you will
+27:29
+find that there is an area in which predictor 2 predictor 1 overlaps with predictor 2. basically there is an area
+27:36
+of variability explained by predictor 1 that can be also explained by predictor 2 and
+27:44
+this area of overlap is due to this issue of multicollinearity basically again given
+27:50
+the fact that these two variables correlate with each other you can just normally tell which of the two is
+27:56
+influencing biodiversity that obviously creates multiple problems
+28:02
+from the statistical perspective because you can just know by correlation alone figure out which of
+28:09
+the two variables is really the one that is causing a species and that creates again a very important limitation of
+28:15
+many of these stories which is the fact that correlation doesn't mean causality the fact that again bibles correlate
+28:22
+with richness doesn't mean that those bibles influence richness
+28:28
+for you to highlight the significance of us having too many hypotheses to explain richness and the fact that they are
+28:34
+linear to each other this is a paper that i published with ross robertson from the smithsonian in ecology in 2005
+28:41
+here we were looking at multiple bibles that explain the richness of fish so we look at things like temperature salinity
+28:48
+in physiography like things like the number of islands the length of the coastline we'll also look at the amount
+28:53
+of coral reefs and the amount of human disturbances so we analyze all of the hypotheses
+28:59
+that have been suggested to explain why species are where they are and in their numbers
+29:06
+so what we found was that when you look at the something like temperature for instance temperature
+29:12
+seems to explain 81 percent of the variation in richness and that's again something that we had mentioned earlier
+29:18
+temperature seems to be an important bible that relates very well with richness but it turns out that they
+29:25
+were seen they were singular viable that related just as high like for instance on thing called that is called the
+29:31
+domain correlates with rations by 90 percent the rapport poor effect which is another
+29:36
+viable explain 64 coral reefs explain 15 percent
+29:42
+so all of these bibles tend to explain some of the variation in reasons when you add up all of the variation
+29:49
+that is accounted for individually by this bible you find that the total amount of variance
+29:54
+that is explained by these bibles is 354 there's only 100 of the variance that
+30:00
+can be explained by all of these bibles explains spend nearly 260 percent again
+30:06
+going back to this issue of collinearity basically what suggests is that all of these bibles are
+30:12
+related to each other and as a result the variance that they explain can be
+30:17
+explained by another set of bibles as well and again that prevent us today of knowing what are the factors that
+30:24
+explain and why the species are where they are
+Summary
+30:29
+want to summarize all of that section basically with this we are ignorant about
+30:37
+how many species are there in the world as i point out to you we know that there are 1.5 million for sure but they could
+30:43
+be all the way up to 8.7 million of of animals where are most of those species well we
+30:48
+think they are mostly in the tropics but it turns out that we have only sample like two percent of the surface of the
+30:54
+oceans when it comes down to why are these species there well we we know of 32 hypotheses that will
+31:02
+explain why species are there and again the main point the take-home message of all of this is the degree of ignorance
+31:09
+when it comes down to understanding biodiversity it's one of the saddest things i believe in my opinion how is it
+31:15
+that we as species are so smart they're sharing or planning with these species we have so much disregard for
+31:22
+them that we don't even know much about them
+31:29
+let's move on because uh we still need to get over that to
+31:34
+understand that we need to protect this species and unfortunately i i think that most people should care
+31:41
+because of the ethical responsibility that we have to allow this species to
+31:46
+also live in this planet but it seems that for many people that just doesn't matter right we just don't seem to care
+31:53
+that these species have the same right to be on this planet as you and i so
+31:58
+sony scientists have been using another argument to highlight the significance
+32:03
+of this species and that is to put price to the value of these species
+32:09
+so the total value of all of these species that you see in the planet has been
+32:15
+grouped into things that we get from those species normally things like air water food recreation and medicine
+32:22
+think about this i mean we seem to care a lot about the things that we see in facebook tiktok twitter you name it but
+32:29
+the reality is that those things don't feed you ultimately the food that you put in your mouth comes from a species that are out
+32:35
+there in the wild so at the most basic level these species sustain life on this planet just when it comes down to food
+32:42
+alone but it turns out that they also regulate the amount of water that you get in places the quality of that air
+32:48
+the same to which you get jobs via recreation and some species are actually as important as to produce medicines to
+32:56
+cure many diseases there was a guy whose last name is constanza he put an
+33:02
+economic value to all of these goods and services and the total value came out to be 33 trillion dollars so the u.s
+33:11
+national debt today i believe it is on the order of 19 trillion dollars since george bush took office
+33:18
+imagine that biodiversity produces twice that every year for you to get a picture of the total
+33:24
+amount of money that is at stake when it comes down to a species
+Value of Species
+33:31
+the value of these species again comes from many different ways one obviously the one that is most obvious is foods
+33:38
+right those are goods that we get from nature those are tangible things that you pay
+33:43
+for the other value of species is to improve the quality of the species that have
+33:49
+been already that are being used for humanity to sustain humanity like for instance there
+33:55
+are some very nice examples about how rice that that we know that we all know
+34:01
+of back in the day was used to produce only a small amount of grain
+34:06
+but thanks to the crossing of that species with a wild species now rice
+34:12
+increased the productivity by 25 that discovery alone
+34:17
+of mixing a species of rice with a wild variety and increasing 25
+34:23
+rice production allowed to feed 450 million people so back in the day when this discovery
+34:29
+was done people there were some places around the world where people were starving to death there was just not
+34:35
+enough food to feed humanity and thanks to this discovery of this guy
+34:41
+he was able to feed 455 million people that's the name of that guy juan long
+34:47
+pink and he became famously known as the father of hybrid
+34:52
+rice right i don't know if he won an old peace prize for this but thanks to this
+34:57
+guy over 450 million people got fed and thanks to the fat i discovered
+35:03
+a species of rice in the wild that i managed to cross with a special rice that is produced
+35:09
+commercially a similar example uh was by this once
+35:14
+done by this guy norman warlock and this is called the fight of the queen revolution this guy what he did was a
+35:21
+similar discovery but he did it with corn again being able to cross these wild species with species that are being
+35:28
+mass produced in a way that now this is new species can produce or hybrids where it's called hybrids can produce a lot
+35:34
+more food i believe that one guy wanted an oil piece price again because of that discovery and thanks to again these are
+35:41
+just two small examples in which species are on in the wild managed to save
+35:46
+humanity from from the verge of starvation
+35:52
+species are also used for medicine it has been recognized that about 80
+35:57
+percent of the world's population's population uses a form of medicine it's kind of amazing that by this moment of
+36:04
+the day depending on what time you are watching this video you probably have come into things that you
+36:09
+in into contact with things that are made from a species maybe 10 20 percent of those things come
+36:15
+from directly from a species one thing for instance that i find mind-blowing is the fact of this species called algae
+36:21
+that produces a guard that is used in toothpaste so right there is an example of a species
+36:27
+that again and you got into contact with despite the fact that you probably have never seen those species but here are
+36:34
+just some examples again things like penicillin right that came from a fungi and it was discovered that penicillin
+36:40
+was able to produce in chemical compounds that restricted the growth of bacteria and reduced the amount of
+36:46
+infections then thanks to this discovery thousands if not millions of people managed to
+36:53
+survive infections by microbes that back in the day were used to kill people
+37:02
+there are also potential again from some species to produce fuels sun
+37:08
+is in not only oils but also alcohols they are also good examples in the
+37:14
+capacity of these species to improve the quality and the production of these crops that
+37:19
+are already there for instance one species that is super valuable today that i think many species many people
+37:24
+underestimate is bees the total value of bees
+37:30
+is estimated on the total on the order of four 200 billion dollars a year just
+37:35
+imagine that that thing that tiny thing that you see sometimes flying around and that most people will probably kill
+37:40
+that species is responsible for about two billion dollar worth two billion dollars worth of
+37:47
+value mostly because that species is the one that pollenizes in crops that that we feed on
+37:54
+some places those species have been so depleted the bees that now the plants
+38:00
+need to be fertilized and manually so you can imagine having armies of people
+38:06
+um taking pollen from one species to another so that the species can get pollenized
+Biological Controls
+38:14
+there is also a possibility of this species to prevent us of using chemicals
+38:20
+are pretty nasty for the environment like for instance there is a huge array of species that can be used as bio
+38:27
+controls of things that are detrimental to to crops those are what is called
+38:33
+biological controls and again there is a huge portfolio of species that will easily allow us to replace all of these
+38:40
+chemicals that we all hate very much can be replaced again for species that are already there that could do the job for
+38:46
+us of getting away getting rid of these species that are damaging to our
+38:51
+to our crops there is also again the possibility of many species especially now with the need for new alternative
+38:58
+sources of energy species are capable of producing biofuels and algae marine
+39:04
+macroalgae seem to be a species that is potentially very important for that purpose
+39:10
+now this is what is called goods okay there is another aspect of biodiversity what
+39:16
+is called services the difference between a good and a service is mostly what you can take and pay for is what is
+39:23
+called a good and what you get but you don't pay for is what is called a the analogy that i like to give is for
+39:29
+instance imagine that you go to mcdonald's and you buy a porter so when you get a burger that becomes a good you
+39:35
+pay for that right this is something tangible but it turns out that mcdonald's offers things like a ketchup tomato captures
+39:42
+you don't pay for the tomato capture but that tomato cake shop allows you to enjoy that burger so in that case the
+39:50
+tomato ketchup you are not paying for it so that becomes a service again services
+39:55
+the difference one of the key differences differences between goods and services is that goods you pay for services you don't all
+40:03
+right so when it comes down to nature there are many services that we obtain from nature that we don't pay for okay one of
+40:11
+them for instance is the regulation of temperature so when you look at the trees you probably will know very well
+40:17
+that when you get underneath a tree it gets colder so trees have a capacity to cool down the planet and that's billions
+40:23
+of dollars worth of money that is being saved as cooling down cities there is also the capacity of
+40:30
+biodiversity to sequester carbon and there is also the capacity of biodiversity to maximize the the storage
+40:39
+and supply of water again those are things that we normally don't pay for but we get from nature
+40:46
+i don't want to really go into too much detail on all of these boots and services but there is a very long list
+40:52
+of goods and services that we get from nature and they are reported here on this table and again i don't want you to
+40:58
+read through the table you i don't know you might be able to see it but i just want to attract your attention to the fact that there is a very long loneliest
+41:06
+long list of services that we get from nature and were documented by this guy called
+41:11
+constanza in a paper in nature in 1997 and in that same paper he documented the
+41:19
+value of all of those goods and services that we get from the different ecosystems on the planet and the magic
+41:25
+number is on the bottom corner of this table here which is 33 trillion dollars
+41:31
+in this project is the most comprehensive evaluation of biodiversity
+41:37
+in the planet in this paper they talk all the species that we that we know of all the ecosystems and all of the goods
+41:44
+and services that we get from this ecosystem and they managed to put a price to those goods and services and
+41:51
+the total value as i mentioned came to be 33 trillion dollars and again to contestualize that that is
+41:58
+twice the national debt of the united states over the last maybe 20 22 years
+Conclusion
+42:04
+let's summarize everything up to now as i point out in the earlier class if we're ruling this planet there's just
+42:10
+nowhere else we can go the probabilities the probability of us finding another
+42:15
+planet is close to none all right so that planet is not going to be in your lifetimes just to tell you that if we're
+42:22
+ruining this planet we are stalking here now the other important thing that i want
+42:27
+you to take home from these lectures from these two lectures it's not only there is no another planet like arts but
+42:33
+we're like ours but we share this planet with up to 8.7 million species and we don't
+42:39
+dare we are not careful enough even to know really how many are there where they are and why are they there and to make
+42:46
+matters worse we are destroying that species those species and that is what we are going to be moving on in the
+42:51
+following lectures trying to understand some of the things that we are doing to our planet and that summarizes
+42:57
+summarizes our section on on life on the planet and the total biodiversity of the planet thank you very much

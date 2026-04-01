@@ -1,0 +1,672 @@
+
+Intro
+0:01
+okay so let's review the class up to now so
+0:06
+3.6 billion years necessary for life to be here where we share the planet with 8.7 to 8.9 million
+0:14
+species any of these species on the last few decades are declining many of them
+0:20
+are going extinct we already came to learn that the reasons for that decline is a
+0:25
+combination of proximal and ultimate drivers so of the proximal factors are things like habitat loss over
+0:32
+exploitation and climate change and invasive species and the ultimate driver is as people
+0:38
+as it comes down to people however there are different attributes of societies that made us to have different impacts
+0:44
+on biodiversity from biodiversity so that kind of summarizes the class up to now again a lot of species many of them
+0:50
+declining because of us now we're going to be moving now to the third phase of this lecture or this
+0:57
+class which is about understanding now what are societies countries from around the world doing to protect that
+1:02
+biodiversity and how good are those strategies working so we're going to start by focusing on the solutions that
+1:10
+are being proposed to overexploitation okay so we already know that we are causing distinction of species one of
+1:16
+the driving forces is over exploitation how well are countries of the world reducing this issue of our exploitation
+1:24
+so let's moderate the problem again so on the top of this thing we have
+1:29
+human societies and there is an incredible complexity about who we are as a species however we
+1:35
+require different things from nature like household food and energy and supplying those things is leading to
+1:41
+deforestation habitat loss and or harvesting and
+1:46
+people however is trying to fix these problems this these air proximal drivers via a couple of things
+1:54
+mainly one is protected areas and the other one is regulation policies so today we're going to be looking into
+2:00
+regulation policies again efforts that are done by countries from around the world that try to prevent
+2:06
+overexploitation so the overall principle
+Regulation Policy
+2:11
+of a regulation policy is this basically is the regulation of harvesting means to implement levels of
+2:19
+extraction that preserve the economic value of a stock while ensuring sustainability so again if you were to
+2:26
+just go and look around to how our countries from the world preventing our exploitation via the
+2:33
+implementation of policies this is generally speaking the protocol that is followed again is to implement
+2:38
+regulations that maintain the economic value of a stock while ensuring that the stock is
+2:44
+finished is fished or harvested sustainably here in this definition i have indicated three important
+2:51
+components to the success of these strategies one is to implement the other
+2:57
+one is the economy another one is sustainability every one of these components requires
+3:02
+certain understanding for this strategy to be successful let's
+3:07
+break down the different components what is required for us to know that very well okay so again when it talks to when it
+3:16
+comes down to sustainability again where we can just fish or kill individuals from a speech from a
+3:23
+species without causing the collapse of the species it requires some scientific knowledge
+3:28
+about that species can these species take the heat so to speak so what is that scientific knowledge
+3:36
+entails so the first one is that we need to understand what are the effects of harvesting on populations we kind of saw
+3:42
+that at the beginning of this class to figure out if we have populations that are controlled density dependent
+3:48
+normally harvesting has a negative effect that we summarize with what is called a
+3:54
+fish immortality so here it is the actual equation just for you to remember it so you recall
+4:00
+this equation up to here is what is called density independent growth that
+4:05
+is the population will just grow as a function of the growth rate but scientists have also added this
+4:10
+component which includes carrying capacity and that makes the population out to be regulated
+4:16
+to current capacity so if you were to model a population under
+4:22
+those parameters you will see that over time the species then will grow to establish
+4:27
+itself to establish instead of what is called carrying capacity here okay
+4:33
+now if you were to embarrass them to analyze the growth rate as a function of the size again just kind of seen as the
+4:41
+population increases here and start moving beyond this point how much is it growing what you ended up having is this
+4:48
+figure here so as the population grows basically when the population reaches half
+4:53
+of the carrying capacity then the population in the grow need to start being reduced right and the growth rate
+4:59
+becomes zero when the when the population reaches carrying capacity so our carrying capacity the population
+5:05
+doesn't grow anymore and as you can see here and about half the population size is where the growth rate is the maximum
+5:12
+so this kind of understanding again of comparing the growth rate as a function
+5:18
+of the population size allows you to calculate what is called the maximum sustainable yield
+5:24
+basically what it suggests is that when a population reaches about this size is where we can fish the most of that
+5:30
+population basically we can kill individuals there that will eventually die if we don't kill them right because
+5:37
+they will start killing themselves themselves when they start getting closer to carrying capacity so when the
+5:43
+population passes halfway the the carrying capacity and the oils will start dying because
+5:49
+they're just too many of them they will not grow well so the idea here is that with this maximum sustainable deal is
+5:55
+that once the population gets to the maximum to that midpoint then we can potentially start
+6:02
+up to that point we can kill individuals that will should eventually die again that's what is called the maximum sustainable er
+6:09
+yield and that's the maximum fish that we can take from the population without destroying the population
+Consequences of Fishing
+6:17
+now the other piece of scientific knowledge that is required for it for that
+6:22
+regulation of policy for those policy regulations to be effective is
+6:28
+that we need to understand also what is the consequences of us fishing on the ecosystems as we established before it's
+6:33
+not only about looking at the one species but what is the consequences of artistry that are species on the entire ecosystem and we introduced the example
+6:40
+below before which is again what is called tropic cascades which is again the fact that if we kill one species
+6:45
+like in this example the charts they're killing that species is gonna have ramifications in the ecosystem so we
+6:51
+need to understand this as well as part of the regulation policies so that when we say yeah you can go and kill sharks
+6:57
+we need to understand that killing the charge is not gonna have broader consequences so again for those conservation for those
+7:03
+regulations to be effective this is another piece of knowledge that we need to have so we have established again two pieces of knowledge that are important
+7:10
+one is what is called the maximum sustainable geo which is how much can we fish without causing the collapse of the
+7:15
+species the other one is what is the effect of fishing on the ecosystems and the third piece of knowledge that we
+Populations and the Environment
+7:22
+need to understand is also our populations being affected by the environment it's
+7:29
+not only about us the only driver that influences the size of the population we also need to understand
+7:35
+how does the environment plays into the size of the population so that we just don't hammer those populations too hard
+7:40
+so if the environment is too harsh on those species we just don't want to be adding more stress so we also need to
+7:45
+understand what are the consequences of that interaction between the environment and harvesting here is an example for
+7:51
+instance of the required knowledge this is a paper by insider and basically what i chose here is that
+7:58
+the chance of a species going a stain is commonly a function of how viable the
+8:04
+environment is so here in this line the environment is very viable and
+8:09
+as you can see it takes a very long time for the species to go esteem sorry this is very viable
+8:16
+and you can see the species goes esteem super fast
+8:21
+and in here where the environment is less viable it normally takes a very long time for the species to question so
+8:28
+the chances of a species going to sting when the environment is stable is a lot lower so again what i'm trying to
+8:35
+point out here is that there is another piece of understanding that we need to have if we want these
+8:41
+regulations are put in place to be effective if we are going to say to the people you can only fish too many fish
+8:47
+we need to understand not only what are the consequences on the fish what are the consequences on the ecosystem but
+8:52
+also what are the if the impacts of the environment on the source population so that when we make these decisions we are
+8:58
+huntly certain that they are not going to be potential unintended consequences for the species or for the ecosystems
+Economic Consequences
+9:06
+another piece of knowledge that is required for these regulations to be effective is our economic understanding
+9:13
+of what the regulation will do that's that's something that i find pretty interesting here here is the
+9:20
+figure that i just showed you here looking at the growth rate of the population as a function of the population size so given the population
+9:27
+size when it reaches about half the carrying capacity you know that that's what is called maximum sustainable yield
+9:33
+okay so again that's the growth rate that which you can fish popular a population without causing the collapse
+9:39
+now if on top of this figure you were to put fishing effort on the
+9:45
+x-axis and the cost of fishing on the y-axis what you will find is that there is a
+9:51
+direct relation right so basically what we are talking about here is that if you are gonna go and fish a lot more it's
+9:57
+gonna be a lot more expensive when you take those two pieces of knowledge again the maximum sustainable
+10:04
+geo with the economic cost of fishing one of the things that you will find is what is called the maximum economic
+10:09
+yield basically is this point here how would you get the most money right so at this moment you can put this fish in
+10:15
+effort it's going to be very cheap and that's what you're going to get the most fish here you are going to fish
+10:22
+you are going to put a lot of fish in effort but you are not going to get as much fish because on top of that is going to
+10:28
+be more expensive so you can actually by having an understanding of the economic consequences of fishing you can optimize
+10:34
+the fishing and sometimes it's counter-intuitive because you can make the most money not necessarily a maximum
+10:40
+sustainable your geo but actually much much lower levels of fishing and that is actually a good thing for the species
+10:47
+because you can see you don't need to fish that that high of a population you don't have to deplete the population
+10:53
+that much what you can actually do is to fish at much lower levels and you can make a lot more money you will also
+10:59
+allow the population to rebound a lot faster so when you get this understanding of the economic consequences of fishing you you find out
+11:06
+that actually there are much lower levels of fishing that are economically more profitable with this understanding of
+11:14
+the economic impacts of fishing and you also learn
+11:19
+some of the detrimental effects of not having regulations in place basically one of the things that happens and that
+11:25
+has been discovered when you combine the biological data with economical data is
+11:30
+what is called a surplus profit so in this area of the core as far as there is more fish because of
+11:37
+the the morning that you get from the fisheries which will be reflected on this blue line is higher than the cause
+11:42
+of fish you are going to be making money right as far as the cost is lower than fishing that the fish that you catch you
+11:49
+are going to be making money and that's what is called surplus profit but it's not as much that you will get if you were to fish here but there is still
+11:54
+money to be made there unfortunately when there are no regulations what happens is that everybody wants to
+12:01
+go and make money so populations are fish at this point what is called zero
+12:06
+surplus profit basically at the moment when people put some money into fishing or they go fish they catch some fish but
+12:12
+unfortunately the fish that they catch is just enough to pay the cost and the reason why they don't make money what is
+12:18
+called zero surplus profit now the problem again of letting fisheries to go fish without any kind of regulation in
+12:24
+place is that you see at this moment is when the populations are declining basically again is this issue of the
+12:31
+fact that if the populations are not regulated based on the economic profit that you can get out of it and the fact
+12:37
+that the people is always about making money will make the populations being switched up to these levels in which
+12:42
+they are declining because you can still make money at the moment when the populations are declining that is obviously without having into account
+12:48
+what we discussed earlier about the issue of success or the value of rarity that will make actually fishing
+12:54
+profitable even when the populations are declining quite a lot so these are a piece of knowledge again
+13:00
+that needs to be understood very well what is the economic consequences of fishing if we are going to implement
+13:06
+regulations that are effective now the other interesting aspect of
+Implementation
+13:13
+proposing effective regulation policies is what is called implement what i refer here as implementation so it's not only
+13:20
+you about having good science and having a good understanding of the economic consequences of phishing so that you can
+13:27
+propose good regulations the governments also need to have a capacity to implement those regulations basically
+13:33
+what happens is this you get again you get the economic understanding the the impasse of fishing on the populations
+13:40
+and ecosystems you can put all these things together to make a recommendation of this is how much fish you can
+13:46
+catch from the oceans but then what happens is that those regulations
+13:52
+that we scientists do go through this process that is called policy making and they turn those
+13:57
+recommendations that will scientists give into regulations and here is where things become interesting because then
+14:04
+it depends whether people is going to comply with those regulations or not and that compliance can be achieved on two
+14:10
+different ways one is via compliance by itself which is people that respect the law and if you
+14:16
+tell them you are gonna fish only five kilograms they go and fish only five kilograms that's one way to do it when people respect the laws the other one is
+14:22
+via enforcement which is to tell you i'm good you are gonna fish fire but here is a police officer that is gonna check
+14:28
+that you actually fish fine so again for the policy regulation to be effective you
+14:35
+need to ensure that there is a mechanism for either to ensure that people will comply with the laws or that there is a a body in
+14:42
+place that will ensure that enforcement so this is again just to highlight the
+14:49
+complexity that is there when we want to establish regulations to reduce overexploitation that are effective and
+14:56
+again what i try to point out to this moment is that you need to have a significant understanding what are the
+15:01
+consequences of fishing on the populations on the ecosystems and the environment effect on on those species
+15:08
+you also need to know the economic of this and you need to understand that there is gotta be in place something to ensure that people will comply you have
+15:15
+compliance of people directly or via enforcement unfortunately the extent to which those
+15:21
+different attributes are being done followed by countries from around the world based on none there is not a
+15:27
+single country in the world where we know where the regulations that they are putting in place are good or not to
+15:32
+preserve the fisheries as a case example so back in 2009 i created this project to assess the
+15:39
+global effectiveness of policy regulations i wanted to analyze all of the countries in the world just to see
+15:45
+how well are the countries on the world managing their fisheries so again fisheries is an important resource we
+15:51
+know that we are over exploiting them and we know that countries are trying to preserve those fish well what i tried to
+15:57
+do on this paper with a group of colleagues of mine was to see how well is the countries of the world doing this
+Fisheries Management
+16:03
+so for these one projects the fisheries management project what i did was this so there is a fishing network on top
+16:09
+basically both going and fishing there is a scientific understanding that is required as i explained to you you need
+16:16
+to to understand what are the consequences of fishing on the fish the populations and all of that stuff there gotta be a group of scientists storing
+16:21
+what happens on those countries then there is a process of policy making that takes the recommendations by the
+16:28
+scientists and turn that into regulations once the regulations are put in place are used by bodies that ensures
+16:34
+compliance and how people comply with this will determine whether the future is sustainable or not so basically what
+16:41
+i try to do here is to document different aspects of the process that require for you to
+16:47
+regulate this fishing effort as to ensure that the fisheries of a country are sustainable and we created a survey
+16:54
+for every one of these attributes to find out how well our country is on the world so all of these attributes we're
+Survey
+17:00
+putting an internet internet survey and basically what i did was to contact people from around the
+17:05
+world and ask them to to answer how well those different attributes of the fisheries of that country were for this
+17:12
+specific project uh we interviewed 15 000 people so i went through the
+17:17
+internet and for every country in the world that has an ocean front that is
+17:22
+fishing i went and collected data from a scientist policy makers and everyone who
+17:27
+has worked on fisheries and i put it into this database of 15 000 people and i asked every one of those people to
+17:34
+please answer some questions about how the different aspects of the future is processed in that country were operating
+17:41
+obviously with that many people there were several mistakes that were made and i had to tell you that i
+17:46
+learned a lot of geography on a project like that and this is one of the interesting things from geography that i
+17:52
+learned on the project email so when i was collecting this data or these scientists from around the world mostly
+17:57
+i was using books of congresses where people from around the world came to this congress and sometimes they write
+18:03
+their emails there so that's where i was taking my information but that didn't mean that all the people that came to this fisheries congress were people that
+18:09
+that work on the oceans obviously sometimes i was emailing people that had nothing to do with fisheries to answer
+18:15
+these questions and most times they say sorry i just don't i don't understand it but this was this was one guy
+18:21
+that thought i made a mistake because i was sending an email and i asked this one person to please that was from
+18:28
+slovakia to please tell me how good was the management of their fisheries of the marine fisheries on that country but if
+18:34
+you look at slovakia doesn't have an ocean so he thought that i was actually asking for slovenia so he sent me this
+18:41
+this email this image as part of the attachment on his email and in his email he says slovenia slovakia tuned to
+18:47
+forever being messed up he was kind of making fun of me for me not knowing where slovakia where but the reality was
+18:52
+that at that point he was actually right you didn't know where that country was but so you get to learn to know a lot of
+19:00
+geography on with this project pretty much every single country in the world that has an oceanfront i managed to get
+19:06
+data on how good the fisheries on that country where so now let's look at the results of that
+Survey Results
+19:13
+survey all right so basically i got the results of 15 000 people saying where the fisheries
+19:20
+of the country were good or not for every single country i put all that data together on the different attributes that are required for you to have a
+19:26
+successful fishing regulation so let's break down the different attributes and what i found
+19:31
+for the different countries so these are the figures here i had the different attributes that i analyzed scientific robustness policy
+19:38
+making and i divided the results between countries that are rich in whites and countries that are poor in black okay so
+19:45
+let's look at the first attribute of a good policy regulation which is to have good science right so you need to have a
+19:52
+group of scientists that are qualified and funded to go and get the data on how
+19:57
+the fisheries are doing so countries of the world are actually divided quite a lot between rich
+20:03
+countries are rich and countries are poor what is our rich as you can see here normally have better scientific
+20:09
+robustness than countries that are poor right again that makes sense developed countries can afford the money to pay
+20:16
+scientists to go and collect data and that's why most of the countries are actually that are rich and have better scientific
+20:23
+robustness that countries are poor now the next step in the process of making a policy is to take the
+20:29
+scientific recommendations are turning into policies via what is called a policy making and for that to require
+20:36
+policy transparency they're gonna be a transparent process in which the scientific recommendations are turned
+20:42
+into policies interestingly enough there was no difference between rich and poor countries the two countries where type
+20:48
+of countries were just as fat rich countries and poor countries were just as bad as taking that scientific
+20:53
+recommendation and tonight turning it into policies and just as an example say that the
+20:59
+scientists say you know what these fisheries are declaring too much
+21:05
+you can only fish five tons of fish somehow at the end of the day the
+21:10
+policymakers say no you can go and fish 20 20 tons so four times at times the
+21:17
+scientific recommendations so something was we are there on how designed how the policy maker stock the scientific
+21:23
+recommendations to turn them into policies and we discovered that policy transparency is kind of tinted
+21:31
+in in different ways on different countries in rich countries so well let's start with the poor
+21:37
+countries in the poor countries the faculty influence current capacity to take scientific recommendations into
+21:43
+policies was corruption so a lot of corruption in poor countries again it's
+21:48
+easy for for a for a boat driver to go on and give money to a politician and say hey we gotta go and fish and so here
+21:56
+is some money just make the low pass for us to go and fish more and that's how in developing countries
+22:01
+things policies get implemented again mostly through corruption now in the
+22:07
+developed world the united states and european countries we found that the effect was the same in
+22:13
+the sense that scientists were making recommendations but the policies turned out to be completely different of what
+22:18
+the scientists suggested but the reason why that happened in developed world was because what is called
+22:24
+a lobby so loving in my opinion is like legalized corruption because at the end
+22:31
+of the day what loving does is allow interest groups to go and modify the opinions of these politicians in a way
+22:39
+that laws are moved in whatever direction the lobbying people want just like in the developing countries
+22:46
+laws are being pushed on the on the direction that the people that is paying corrupting the politicians are so
+22:53
+again policy transparency was just as bad in poor and rich countries in poor countries because of
+23:00
+corruption in developed countries because of policy a lowing and again the consequence for the fish is the same is
+23:06
+the fact that the science that is being done is not transferred correctly into policy making again because interest
+23:11
+groups want different regulations in place now when it comes down to implementing the
+23:18
+regulations again you have the scientists make the recommendations the policy makers make the law but then you
+23:23
+need you need to have these bodies in place that will ensure that the regulations are created are implemented and in this
+23:31
+attribute it turns out that developed countries are actually better than poor countries rich countries in whites again have
+23:37
+better capacity to implement regulations so if a law comes and said you only want to fix this much there are bodies
+23:45
+that ensure that those laws are followed in developing countries or poor countries that was not the case there is
+23:50
+just not a body capable of implementing this the reason why in developed countries it becomes fundamental to a
+23:57
+transparent policy but unfortunately just doesn't happen fishing effort i i wanted to be very
+24:04
+interesting poor countries are actually fishing a a less than rich countries the reason
+24:12
+being that rich countries of course had a lot more money to go out and put more money into fishing so most of the
+24:18
+fishing in developing countries is small by comparison to develop and it kind of
+24:23
+makes sense subsidies in this case rich countries are the ones that are
+24:29
+putting the most money into success different kind of production in taxes actually giving structures to sustain
+24:36
+people into these jobs that are economically not profitable that was more common in rich countries than in
+24:42
+poor countries poor governments never gave money to the fisher to the fishermen to one fish there
+24:48
+the final attribute that we analyzed was this access to foreign fishing so
+24:53
+again there was a huge difference on the capacities of different governments to one fish or not poor countries just
+25:00
+don't have that money or the capacity to go and finance people to own fish right so you will think that that will
+25:06
+give a break to the fish in those countries but it turns out that many of these countries are allowing international countries to come and fish
+25:12
+in the water and that to me was a massive discovery because i never thought that was possible it turns out
+International Trading
+25:17
+that many countries had what is called international trading agreements
+25:22
+basically what it is is countries that had the money had the fishing capacity they cannot
+25:28
+fish in their countries because it's highly highly regulated so they make these agreements with developing
+25:33
+countries to one fish in their waters and this is one of the discoveries on this paper like for instance the
+25:39
+european union had international features agreements with 52 countries so basically what they do is they have
+25:45
+fishing boats from the european union going to all these countries and fishing there and sending the fish to the
+25:50
+european union so the country to get the country that had the most international agreements were obviously
+25:56
+the european union second one was south korea with 30 countries south korea has capacity to
+26:02
+fish in 30 countries japan has the capacity to fish in 26 countries china in 24 the united states had
+26:09
+international agreements to fish in 18 countries now these international agreements are
+26:14
+seriously a disaster why well the reason why countries developing
+26:19
+countries are allowing oil countries to come and fish is because they no fish and the reason why they cannot fish
+26:25
+because they just don't have the money so there is no enforcement there is no oversight so all in turn they are
+26:31
+selling the capacity of other countries to come and fish to countries that have the money to even go there so you can imagine what
+26:38
+these boats are probably doing on many of these countries when an incredible amount of technology put into one fish
+26:43
+in places where there is simply no oversight so it's a kind of an unfortunate situation and the way that i
+26:50
+saw this is like us taking the food out of the mouths of the poor people of the
+26:56
+world and again because this is just the devil of countries that can afford this taking the food from the poor countries
+27:02
+there are several reports on this in which eight countries from the european union go and fish in africa you can see the
+27:08
+european union fishing on most countries in africa countries where people is starving to death so they go there they
+27:14
+fish they take the fillet of the fish and they leave the bones for the people in africa to feed on i mean that is kind
+27:20
+of sick to think about it totally illegal by the way so
+Project Summary
+27:26
+what we did on this project we combined all of these attributes on how the process of fishing has to be done
+27:33
+remember to have a good fishing process a good regulation of fisheries you know you need to have a science you need to
+27:39
+have transparency policy and you have you need to add the capacity to implement that regulation all these
+27:44
+attributes we put together to generate an index that allows to see how well are the management of the fisheries of all
+27:51
+of the countries in the world that was my goal at the end we know by species are being
+27:57
+overexploited many of them are collapsing several of them are going extinct we know that countries of the
+28:02
+world are trying to prevent the laws of this species via the implementation of these policies my goal in this project
+28:08
+was to see how well our country is doing what we found was this so again let's break it into
+28:15
+the part of the process you need to start with a good science right so of all of the countries in the world all of them
+28:22
+only 14 countries which represent only seven percent seven
+28:28
+percent of all the countries in the world had good investment in science so again what the fundamental part for
+28:34
+you to create a good policy which is having a good scientific understanding is available in only seven
+28:42
+percent of all of the countries in the world the second thing that we need for you to have a successful and effective
+28:47
+regulation policy is to have transparent policy making such as the recommendations by scientists are
+28:52
+transferring to good policies it turns out that only 1.4 of the countries in
+28:58
+the world have in addition to good scientific understanding transparent policies
+29:04
+only 0.9 had the capacity to implement those regulations again let me just
+29:10
+break it again just because just mind-blowing of all of the countries in the world only seven percent of them had
+29:15
+put money into creating good science to understand what the fisheries are doing to the fish only one for 1.4 percent in a have the
+29:23
+capacity to have a transparent policy making and only of all of those
+29:28
+countries 0.1 0.9 sorry had the capacity to implement
+29:33
+the regulations that are done by the policy makers and there is seriously no one zero
+29:39
+we're talking zero country in the world that in addition doesn't have a foreign fishing or subsidies or increased
+29:45
+fishing capacity so what we're talking about here is the fact that okay we had a mechanism
+29:52
+which is kind of policy regulation that would prevent species of being overexploited but the reality is that
+29:58
+that process to be effective is not being done anywhere in the world again there is not
+30:03
+a single country in the world that can claim that they are doing an effective management of their fisheries even
+30:10
+developed countries which you will think that given the money that they had they will be doing relatively well but unfortunately although they are putting
+30:17
+a lot of money into good science and equity enforcement it a middle step of
+30:22
+policy making in which they are being affected by uh lowering people interest groups that
+30:29
+unfortunately make the regulations to be completely different of what the scientific recommendations were and
+30:34
+basically from their own the entire process gets corrupted so everything seems to be legal but unfortunately in
+30:40
+developed countries they are enforcing laws that are not scientifically based again because we allow developing groups
+30:47
+to influence policy making in the developer the ultimate consequence of that is that
+30:52
+all of the features in the world are not well protected via regulation policies
+Results
+30:58
+let's look at the countries of the world so here in this map i put all of the scores together and into that what is
+31:04
+called the average management score so in red our countries are doing the worst
+31:09
+different attributes not doing so good and in green are countries in which
+31:14
+the majority of the attributes are doing okay so let's look at the results obviously canada and in i mean the
+31:21
+united states doing relatively well all countries in the caribbean and south america not doing so well
+31:26
+africa was one of the worst countries the one one of the worst continents when
+31:31
+it comes down to the management of the fisheries obviously the levels of poverty in those countries prevented or having good science that is just not
+31:37
+enforcement and to memorize words they are letting fish people from europe to one fish there that's how they start the
+31:43
+indian ocean just the same situation again laws of poverty that prevents governments from those countries to
+31:49
+invest on management managing their fisheries australia doing relatively well though one of the countries that i feel they are the most proud there
+31:56
+because you feel proud and almost all of the attributes on the process of policy making being
+32:01
+relatively strong there in australia and that right there is the management
+32:06
+effectiveness of the world fisheries again up to now we have seen that biodiversity
+32:11
+by a species biodiversity is being put until under all of these stressors and
+32:17
+one of the regulate one of the solutions to prevent species of inner exploit which is the regulation of policies
+32:23
+unfortunately what makes sense in paper and in theory in practice it's just not working anywhere in the world
+Summary
+32:30
+so let's summarize what is happening in the oceans we already established that 70 to 80
+32:36
+percent of the fisheries in the world are being overexploited or fully exploited we know that to preserve those fisheries
+32:44
+one of the strategies that is in place is having good management of the fisheries the management of the fisheries as i explained to you require
+32:51
+good scientific understanding unfortunately only seven percent of the countries had that good understanding we
+32:57
+also need countries that have transferring policy making such that those recommendations by scientists are
+33:03
+converting to laws unfortunately only 1.2 percent of the countries in the world have transparent policy making 0.9
+33:10
+percent had good enforcement and basically there is not a single country that is not further affected by the effects of subsidies foreign fishing or
+33:18
+or excess fishing capacity so what we are talking about again here is a beautiful asset which is that fisheries
+33:25
+all the world 80 being overexploited many of them declining and while there
+33:30
+is a regulation in place again the center which is successful globally
+33:35
+is just not happening and that summarizes one of the first strategies on how are we protecting the
+33:42
+biodiversity of the world let's finish the club there for today

@@ -1,0 +1,928 @@
+
+Introduction
+0:00
+okay so let's review the content of the class up to now so we are sharing the planet with easily
+0:07
+8.7 8.9 million species we also know that the evidence suggests
+0:13
+that many of these species are now declining and many of them are going extinct today we're moving to the next phase of
+0:20
+this class which is to find out why why are these species declining
+0:25
+we're going to be reviewing one of the underlying causes of this decline which is called overexploitation
+0:30
+so let's understand what today i want us to understand what overexploitation is what does it do to a species
+0:38
+and why are we doing overexploitation so over exploitation you were to look at
+0:44
+the definition of overexploitation is defined as the unsustainable hunting
+0:50
+fishing or extraction of raw materials okay that's the technical definition again it's unsustainable that's again
+0:56
+again the key word there extraction of raw material another definition that i like
+1:02
+potentially more is the second one which is exploitation of a wild population
+1:07
+beyond his natural level of replenishment take a moment to think about that definition exploitation
+1:14
+meaning we are taking something out of that population beyond his national levels of replenishment okay so i want
+1:21
+you to think about this like you have money in your bank basically you are taking more money from the bank that you
+1:26
+are putting in the result of that actually you're taking more than you are putting in is that your
+1:32
+your statement is going to go down your balance is going to go down so it's the same thing for a species here we are
+1:37
+over exploiting whenever we are taking more individuals from that population that the population can produce and the
+1:44
+consequence of that of course is that the populations are going to decline there are hundreds of case examples of
+1:50
+species that are being brought down to the brick of extinction because of this issue of overexploitation here are just
+1:57
+some case examples and you can appreciate the magnitude at which we are exploiting these populations and then it
+2:03
+just makes sense that these populations are unable to replenish the individuals that are dying and as a result the
+2:10
+consequences the one of the consequences of course is the populations will decline
+Population Regulation
+2:16
+i want us to understand before we get to see how overexploitation works i was to
+2:21
+understand how do you regulate the size of a population when you look at a population how basically how many
+2:27
+individuals are there of a given species how does numbers come to be so
+2:33
+at the most basic level the number of individuals that you see in a population is the combination of a couple factors
+2:40
+one is what is called the input of individuals and the other one is the output right makes sense the balance of
+2:46
+how many individuals you have there is basically the the balance between how many you get in how many d do you get
+2:53
+out in the input we have two demographic factors that are important one is
+2:59
+natality which which is basically how many individuals are born and the other one is immigration which is basically
+3:06
+how many individuals arrive that's the reason why it's called input how many dollars are you adding the way to add
+3:11
+individuals to population again is by individuals being born or new individuals arriving from somewhere else
+3:19
+now in the output is the opposite you gotta think about the output what is taking individuals out of the population
+3:25
+and the only two demographic processes that can do that is mortality in the u.s dying that takes individuals out and the
+3:32
+other one is migration which is basically individuals living
+3:37
+mathematically there are different ways to formulate this and let's break it down into the pieces right so one of the
+3:44
+different ways to model the size or the change of populations over time is what
+3:49
+is called density independent growth okay think about that density independent basically
+3:56
+and growth basically what it suggests is that they grow the population is independent of how many individuals are already in the population
+4:02
+there is something that i want you to mathematical term that i want you to pay attention to which is this value here
+4:08
+called r r is defined as the population growth right again population growth is from
+4:15
+the term itself is where the population is increasing or decreasing and that mathematically is defined as
+4:21
+as the combination of the four factors factors that we just saw basically natality plus immigration the reason why
+4:28
+they are positive you are adding those minus mortality minus immigration right
+4:34
+again mentality and immigration ads mortality immigration remove the balance
+4:39
+between that gives you r which is the the growth of the population
+Population Size
+4:45
+now what about the population size we're not interested in the size on the grow the population but what about the size
+4:51
+itself if i want to know what is the size of the population tomorrow how do i figure that out well mathematically it
+4:57
+has done with this mathematical equation here so the size of the population at a time t plus one t plus one means time
+5:05
+plus one generation is going to be equal to the size of the population now times the size of the population now
+5:12
+times r okay i don't know i know that many people get scared with mathematics but this is
+5:17
+actually pretty simple let's do an example here let's imagine that the population size
+5:22
+is a hundred just to make things simple right so there are 100 individuals and i tell you that the growth of the
+5:28
+population is 10 basically the combination of these four factors here gives you a growth rate of 10 percent so
+5:33
+if the population right now is 100 and they grow at a rate of 10 that means that the next generation is
+5:39
+going to be 100 times 10 percent that will be 10 plus 100 that basically
+5:44
+suggests that the size of the population at a time t plus 1 is going to be equal to 110 individuals
+5:52
+let's look at some examples here again i use the three three case examples for you to see here over time and here is
+5:57
+the actual table and at different populations at different times using different growth rates and again let's
+6:03
+just do quickly an example here here this population is growing at a rate of
+6:08
+1.1 which is 10 percent so and at time 0 the population is equal
+6:14
+to 10 individuals so that means that at the population the same the population at a time t plus 1 will be 10 percent of
+6:20
+the population now which will be 1 plus the 10 that will be 11. okay and basically what you get is this
+6:28
+growth rate here and you do that for every generation and what you end up getting is these corpse that look here
+6:34
+so this for instance here in red is a population growing at a rate of 10 uh 30 percent and this one in green is a
+6:40
+population growing at a rate of 10 percent so you can see is is a population that grows exponentially and
+6:47
+the reason why it's called in the density independent you see that there is nothing
+6:52
+on this equation on this equation controlling the size of the population and the reason why the population is sky
+6:58
+rocks right well i want you to think about how real that could be in nature can a population
+7:04
+grow forever right i hope that you say no and as a result of that mathematic
+Density Dependent Growth
+7:09
+people back in the day though yeah that cannot be true the populations can just not grow forever they gotta be something then that
+7:15
+controls the size of the population and that led to people to create what is called density dependent growth so again
+7:22
+what you see now is density dependent meaning that they grow the population is going to be dependent on how many individuals are there and what they did
+7:30
+was to use the same mathematical equation but now they add an another term which includes what is called
+7:37
+carrying capacity the current capacity is denoted with a value k in this equation here let's break it
+7:44
+down into pieces and let's imagine do a quick example here and let's say that the population has 100 individuals and
+7:51
+the carrying capacity of the environment is also 100 individuals carrying capacity is how many individuals an ecosystem can contain right so if there
+7:59
+is a space only to add a hundred then the carrying capacity will become a hundred so let's do it quickly here so
+8:05
+if i tell you there are 100 individuals and the carrying capacity is 100 so 100 divided by 100 will give you one one
+8:12
+minus one will be zero zero times all of this this will become zero and basically the population will
+8:17
+not grow you get that and the reason why it doesn't grow is because the population is already a carrying capacity here
+8:26
+so let's now look at the consequences of us having that current capacity in the in the mathematical equation of density
+8:33
+independence right so all that part of that equation here is what is called density independent now that i already
+8:40
+added carrying capacity it becomes density dependent growth so now you can see here is the
+8:46
+consequence of us having that term here basically you see it's the same data that i showed you before here is an example of a population growing at a
+8:52
+rate of 30 percent and you can see how the population settles at the current capacity in this example i set the
+8:59
+current capacity to 150 and this one to 100 and you can see how the population always stabilizes at carrying
+9:06
+capacity just for reference i also use the density independent growth of this
+9:12
+population at 30 percent right so you can see in red here that population is growing at 30 percent skyrocketing in
+9:18
+density independent but when i put current capacity that population is going to stabilize at the current
+9:24
+capacity so in this case the current capacity i set it to 150 in this one i use 100 and in this one in green here at
+9:31
+the denominator i put 50 and then the population stabilizes there all right so
+9:36
+again this is just a mathematical way for us to to assess how the populations change over time
+9:44
+now what about okay this is natural right this is what happens in nature now what we got to do is to figure out what
+Mortality
+9:50
+happens when we start killing these animals we are killing them because we are eating them or doing certain things to those species so basically what
+9:56
+happens is that to this equation of how the mathematic the population changes we have to substrate
+10:02
+what is called fishing mortality fission mortality becomes another ratio right it's basically sorry another fraction
+10:08
+basically how many individuals what proportion of the population we are killing and we multiply that by the current
+10:14
+capacity and we remove that number from the size of the population
+Example
+10:19
+so here's an example again let's just look at a population that is growing density independent at a growth rate of
+10:25
+30 percent and i put a carrying capacity of 50
+10:31
+and here what i did i took that population that is growing density dependent
+10:36
+a current capacity of 50 and then i here use different fishing mortalities so when i said fishing mortality to zero
+10:43
+here all of these things become zero and basically the population grows up to current capacity at the carrying
+10:48
+capacity here so like you can see here for instance if i use fishing mortality to zero in
+10:53
+this example the population settles at a 50 which is again the current capacity
+10:59
+now if i use fishing mortality of 0.3 13 percent you can see that the population
+11:05
+stabilizes at the original size of the population so the population basically don't grow this is example
+11:11
+with a population that is growing at a rate of 30 percent doesn't grow at all when the fish immortality is 30 percent
+11:18
+but the population will decline if i fish the more the i fish the population at the same rate that is
+11:25
+growing and this is one of the things that is interesting for you to realize is that when i kill fish in this well
+11:31
+did you imagine that this is fish at the same rate that the population is producing animals the population will
+11:38
+decline right and the reason for that is because there is a time that the species need to get to adults for them to to to
+11:44
+balance out things but the important thing for you to realize from this comparison here between fish and mortality and grow rate is that normally
+11:52
+for you to maintain the populations is stable you need to fish the populations at a rate of about half the
+12:00
+growth rate or lower okay so you can see here in this case the population remain a stable
+12:06
+relatively stable at the first size when we fish them when we fish the population at about a
+12:14
+less than half the growth rate that's what i want you to realize is that if we want to maintain a population
+12:21
+that was in collapse we had to kill individuals from the population at a rate below half the growth rate if we do
+12:28
+it higher than that the population is uncapable of supplying the individuals that we are taking off and then taking
+12:34
+out as a result the population will decline now that again i want you to remember that we need to kill
+12:39
+individuals at a rate of half the growth rate or less if we want those populations to remain stable okay
+12:47
+now let's see what happens in in reality here is a case example this is a paper that christine guar page and i did back
+12:54
+in the day in plus one and in this paper we took different populations of charts
+12:59
+and we look at the growth rates all right so you can see here for instance different species this species for instance has a huge growth rate they it
+13:06
+grows at a rate of 12 per generation but then you have things like the whale chart right well sharks
+13:12
+are huge the grow rate of that population again is less than a four percent per generation so it grows
+13:20
+very very slowly as a population now as i told you you want to fish these populations at a
+13:27
+way in a way that is sustainable you need to kill them at at least half the growth rate basically what happens is
+13:33
+that if we wanted to sustain these populations we need to fish them at these lines that you see in red here
+13:40
+again killing the fish at about half the grow rate if we want to maintain them
+13:45
+okay now the reality is let's look at what the actual fishing mortality is again this
+13:51
+is the fishing mortality that that will be necessary for us to prevent the populations collapsing but what happens
+13:57
+in reality is this the fishing mortality of those populations is easily 46
+14:03
+percent right so you can imagine this is what the populations can sustain being killed
+14:09
+without collapsing and this is what we are actually killing them at twice
+14:15
+in some cases twice three times the growth rate so it's no surprise then why many of these species are at the brick
+14:22
+of extinction right now almost as i say these are species from the caribbean almost all of the species of sharks in
+14:28
+the caribbean with a section of a couple species are almost at the break of extinction they have been
+14:34
+wiped out from the entire caribbean again mostly because they cannot withstand these levels of fishing and
+14:40
+again that helps you to explain how is it that overfishing leads to the decline of this species
+14:49
+now how bad is it okay so that is how overfishing
+14:55
+or of overexploitation is leading to the decline of species how bad is this
+15:00
+this problem in the in in nature for all of the species so here is an example
+15:05
+of all the fisheries in the world all of them is a very famous paper by red waxon
+15:10
+and professor paulie and they analyzed the fisheries over
+15:15
+time going back all the way to the 1970s even before you and i were born but you
+15:21
+can see that populations we were able to get a lot of fish out of the oceans you can see how it went up but turns out
+15:28
+that there was a moment back in the 1980s when the sizes of this the amount of fish that we could take
+15:34
+from the oceans started to go down at a rate of about 2.1.7 million tons a year that's a lot
+15:41
+of fish now that we are not able to catch from the oceans despite the fact that we're actually now doubling the
+15:47
+amount of effort that we are putting to catch these fish and that is already one of the first signs that we are over
+15:53
+exploiting in this early phase of exploitation we overexploited these populations to a level now that they are
+15:59
+just coming down again because unfortunately we are killing more than the individuals that can be produced
+16:05
+that explains then why the populations are declining it has been suggested already that the
+16:11
+the magnitude at which we're taking of all of the biomass that is producing the ocean of all the energy that comes from
+16:18
+the sun and is processed in this planet we are already as humans we are easily already eating 24 to 35 percent
+16:26
+okay this is what i want you to think this probably doesn't look like much right but we are just one species out of
+16:31
+8.7 million species and of all the productivity of the oceans we're already easily eating over 35 percent of that
+16:39
+this is like us having a cake that we had to share with the 8.7 million species and we alone are eating already
+16:46
+35 of it unfortunately we are becoming so greedy
+16:52
+at exploiting and killing and eating the fish from the oceans that we are just seriously not thinking about what is
+16:58
+left for future generations this here are the statistics of all the fisheries
+17:04
+in the world and what i want you to pay attention to is the fact that today there are over 28 percent already of the
+17:10
+fisheries already exploited were exploited against populations that have been
+17:15
+in which we are taking more individuals than the oil that can be replenished naturally
+17:21
+and 52 of them are fully exploited meaning that we are already at the level of that those species can take so here
+17:29
+easily you can see that to up to now all generation we are easily taking 80
+17:35
+of all of the fisheries in the world and we are basically just letting for future generations 20 of the fish to to to be
+17:43
+fed on professor boris worm from the house of university took all of this data and he
+Collapse of fisheries
+17:49
+broke it rather than looking at the total catches he analyzed it by a species the different stocks that are
+17:55
+being fished and he analyzed the extent to which fissures fish fisheries are collapsing basically a point in which
+18:02
+the fish can just simply not produce more fish and he found this figure here which is this dotted line
+18:08
+this is the rate at which stocks are collapsing collapsing again meaning that you cannot take fish
+18:14
+anymore even if you want fish the fish are not there to be cut and what he did he extrapolated his lime and what he
+18:20
+found was that easily by 2048 we could run out of fish to eat from the oceans i
+18:26
+want you to go on google fisheries 2048 and you will see a lot of news articles
+18:32
+about this professor because it was shocking to know that the degree of which we are taking fish out of the
+18:38
+ocean is so massive that so many populations are declining and forget about feeding
+18:44
+the future populations so there are many examples again that's
+Overhunting
+18:50
+just on the fish on land the thing has seen has been even worse and as i mentioned to you unfortunately most of
+18:56
+the largest mammals on land were long gone mostly because of over hunting and
+19:02
+there are many examples again including plants and things like that that that are related to a species that had gone
+19:09
+extinct because we overexploited them again the underlying reason why they want to sting was because we just took a
+19:15
+lot more individuals from those populations that the populations were capable to replenish
+19:22
+now why do we do this okay so that's the second second thing that i want you to take from this
+Culture
+19:29
+lecture what are the reasons for why we do this there are certain things that i find remarkable and i don't think they have there's an excuse and one of them
+19:35
+is culture for cultural reasons we are overfishing
+19:41
+exploiting a lot of these populations so let's check out a video about that
+19:48
+in the back room of a beijing restaurant i'm getting a taste of china's well let's call it eclectic culinary cuisine
+19:56
+lots of food here mr chen just told me that this is stead bowl penis this is deer penis these are
+20:03
+lamb testicles it's russian dog penis and this is just dear meat
+20:09
+exotic maybe but perfectly legal so far now mr chen if i wanted to order some
+20:16
+tiger paw tiger paw or tiger penis can i order that here
+20:22
+he tells me they do not have it because the tiger is a protected species
+20:27
+say take her pawn here and take her penis they use the name mr chen says only to impress their clients
+20:34
+when you see tiger paw and tiger penis on the menu mr chen though is adamant that they don't have it here and that's
+20:39
+just the name they won't let us back in the kitchen to actually see for ourselves [Music] there's no way of knowing if indeed this
+20:46
+restaurant serves tiger but we do know it's happening throughout china
+20:52
+according to wildlife alliance china is the number one destination for tiger and
+20:57
+other endangered species fines are stiff around fourteen thousand dollars if you're caught trafficking so
+21:04
+the practice has gone underground [Music]
+21:09
+it's 5 30 in the morning in the southern city of guangzhou and business is booming at this illegal trading spot
+21:18
+we're trying to stay out of sight but our cameras pick up images of vendors selling from the back of their vans
+21:24
+[Music] i'm with craig kirkpatrick of the wildlife trade monitoring network with
+21:31
+traffic we decide to get out of the van for a closer look
+21:38
+our arrival isn't well received dealers quickly disperse
+21:45
+look over here hey craig craig but we are able to catch a glimpse of
+21:50
+some of the illegal activity the sale of ferret badgers and civic cats here
+21:58
+the consumption of these animals is believed to be the source of the sars outbreak in 2002 which killed at least
+22:04
+700 people around the world despite a crackdown by the chinese government in 2003 the illegal
+22:11
+consumption is growing again so they're buying it because they want to eat the meat exactly they're buying
+22:17
+it for medicine purposes as well yes it's more of a generalized health tonic rather than a specific medicus medicine
+22:24
+prescribed for any particular ailment walking the legal markets in guangzhou
+22:31
+it's easy to see why over-exploitation is the number one threat to china's animals
+22:37
+thousands of turtles poisonous scorpions and snakes fill the stalls dried bags of seahorse shark fin and
+22:44
+deer tails pile up along the streets there's even pillaging from other countries to satisfy the almost endless
+22:50
+demand it truly is a global trade coming in from southeast asia or from the united states
+22:57
+in this stall endangered turtles from madagascar for sale here illegally this
+23:03
+is illegal are the police gonna come here and shut a place like this down there's so many other priorities that
+23:08
+they've got going in this very large country that's expanding at a tremendous rate wildlife
+23:14
+trade just doesn't really register very high on their priority list these animals aren't
+23:23
+so right there you can get to see a an example in which is culture one of
+23:31
+the underlying motivation for this over exploitation and before i know that many
+23:36
+of you are probably becoming very judgmental of those chinese doing that crazy thing one of the things that i want you to realize is that we do that
+23:42
+as exceptions of exploitation of species for cultural reasons everywhere for
+23:47
+instance here in hawaii it's common to see exceptions for you to unfish certain fish you are a native hawaiian right so
+23:54
+like again i don't have judgment on that that's a cultural thing and people have the right but what i want you to think
+23:59
+about is about the fact that then we cannot go and judge these people on those places the other thing that i want
+24:05
+you to realize is then how a the fish doesn't care
+24:12
+if it was killed by me by the pope the fish is still dead so cultural culture
+24:18
+despite the fire again i'm not questioning any of the reason for why we overexploit species for cultural purpose
+24:25
+but what i'm saying to you is the fact that a for cultural purposes
+24:31
+as for the fish goes it just doesn't the fish just doesn't care and then again hundreds of species that today have been
+24:38
+over exploited just to supply or to satisfy these cultural reasons again everything from the whale hunting
+24:45
+sharks again all the way up to jacks and ceramics and fish here in hawaii as well again just for you to generalize that
+24:52
+for us not to be judgmental again for the cultural reasons for which other cultures do over exploitation because we
+24:58
+do it here as well so we need to be straight with the those standards at
+25:03
+which we judge the reason for why species are overexploited for cultural purposes
+Food
+25:10
+so the other reason why we overexploit species is basically food the number the
+25:16
+size of the world's human population is increasing quite dramatically and obviously if you think about the fact
+25:22
+that there are a almost 8.7 billion species people on the planet all the
+25:28
+people gotta eat and the amount of food that every human being requires to be well is just skyrocketing and here on
+25:34
+this vehicle you can see the global food demand of humanity and you can see how the the amount of food that is required
+25:42
+is just skyrocketing and that food has to come from somewhere and unfortunately you gotta come from a species while a
+25:49
+species that can supply that thing another another reason why many species are being overexploited which is to
+25:54
+satisfy the increase in demand for foods now
+26:00
+you will think this this is what i want you to realize that there is something kind of evil about the human systems
+26:05
+that leads to to the over exploitation of a species i want you to think about this so if a species is declining we go
+26:12
+on fish and the species declining you will think that there is going to be a moment in which is going to become
+26:18
+very expensive for us for us to go and fish something that is not there anymore because we overexploit overexploited it
+26:23
+turns out that the opposite things happens the lower the population goal the more we go and fit
+26:29
+and that's kind of sick right like you will think that from the economic perspective overexploitation will take
+26:36
+care of itself because again when the population start declining the individual becomes so rare that there is
+26:41
+just no profit for you to go and people will move somewhere else which will allow the populations to recover but
+26:47
+that doesn't happen in nature they come pause this video now and think about why
+26:53
+why will we go and fish more something that is already declining that economically probably is not profitable
+26:59
+at all so there are two reasons for this one is what is called subsidies governments
+27:06
+especially governments from the developed world including the united states and europe we are concerned about
+27:12
+the level of employment that these fisheries provide to societies as a result we subsidize this so many of
+27:19
+these companies that won't fish they are on a loss already there is just not enough money that they can make out of
+27:25
+the fish so they get successes from the government and the reason why the government subsidizes is because they are afraid of losing all of those
+27:32
+livelihoods there so that's another way how populations fail to escape fishing is because we
+27:38
+sustain fishing even despite the fact that economically is not profitable another reason
+27:44
+is the fact that we value what is called rarity this is a very famous paper by this professor by this person here i
+27:51
+don't know this person at all but it's one of the few papers out there that document another issue for why do we
+27:56
+continue to exploit species despite the fact that there is no more nothing else to take out of them
+28:03
+again as i explained to you this is the size of a population you will expect that as the population goes down the
+28:09
+profit will go down and at that moment the people will get out of the fisheries because there is no money to make which
+28:15
+will allow the population to recover but as a as i say that doesn't happen in reality
+28:22
+and again one of the reason we explain subsidies the other one is what is called rarity
+28:28
+as the start declining right what happens is that they become rare and people want them even more and basically what
+28:34
+happens is that the price of those species go high a good example of that is for
+28:40
+instance the tuna fish the tunas the bluefin tuna is a species that is skyrocketing the pricing father some
+28:47
+videos documentaries pointing out how companies in japan are buying tons of these fish and putting them in
+28:52
+refrigerators with expectations that the fish will go esteem because that will make the price of that fish tuna
+28:58
+super high so here is an example though that was used on this one paper and it's related to
+29:04
+these species avalonas here you can see how the popula this is time and this is this this the size of the population and
+29:11
+the price you can see how the size of the population started declining but then the price of that species went up
+29:17
+and you can see how the population never managed to recover the expectation again that the population will recover once
+29:24
+the price is low just doesn't happen in nature again it's just because the price goes up and that increase in price then
+29:31
+allows people to invest even more to one catch the few the few individuals that are left and as a result it creates this
+29:38
+thing that this person call a vortex an extinction vortex in which again as the
+29:43
+price as the species goes down the price goes up that allows people to go more and the fact that they go even more
+29:49
+makes the population even go lower and lower making the price higher and higher and basically creates this vortex and a
+29:55
+spiral that creates this self-feeding mechanism that led to the species to estimate or exploitation
+30:03
+how common is this problem well there are hundreds of examples of this problem here you can see for instance the price
+30:10
+of a species that are used for collection like butterflies and you can see how the species that are rare are
+30:15
+commonly more expensive that the species are very abundant and again just documenting or value for rarity again
+30:23
+the the more rare the species is which is a species that we probably should be taking care of unfortunately those
+30:28
+species are also very expensive and as a result we're just going to exploit anyway more people is willing to take the chance to go and get that given the
+30:36
+return that they get in economical terms and here is another example with with another mama
+30:42
+now this issue of rarity the value of rarity
+30:47
+actually allows for even things that we think are good to be things that actually are bad let me just give you an
+30:54
+example there is this thing called cities societies is an international law that
+31:00
+was created among the an agreement among the countries of the world to prevent the traffic of species between countries
+31:06
+species are put on the less so a lot of ngos for work very hard to put species
+31:12
+into those laws see a cities such that now that will reduce the demand just think about
+31:19
+for instance people in japan wanted to eat a whales and if now the whales are
+31:24
+on cities that means that people other countries that catch the world cannot ship it to japan and by cutting that
+31:30
+supply governments of the world were hoping that it would prevent that exploitation
+31:35
+on those countries allowing the species to recover that was the motivation of these law societies and there are
+31:41
+hundreds of species again that people is making an effort to be put into this law again just to prevent the
+31:48
+the trust the transportation between countries or these which will hopefully allow because the the supply and demand
+31:55
+issue and allowing the species to recover that was the original motivation pre-novel right it turns out that they
+32:00
+have the opposite consequence on nature actually what ended up happening is that those species that were put on this list actually started
+32:07
+being exploited even more the reason for that is that the price of the species became
+32:13
+higher because now you get caught with this thing you go to jail so now people were willing to pay even more and here
+32:19
+you can see example for instance of a species that are in danger right now the ones
+32:24
+that are put inside is against the species that are not included in cyrus let's look at
+32:29
+lizards here you can see how the price normally of the species are putting in this law is higher than the species that
+32:36
+are not and this increasing price again allows traffic people people that traffic into
+32:43
+into these species to take the risk of just going and getting because you multiply get twice the profit
+32:49
+of of another species that is not inside it so again this issue of rarity
+32:55
+make may even things that we think are good into things that are not good because again when you put protection
+33:00
+into place basically there are higher penalties to people meaning that there is a higher risk and
+33:06
+if there is still a demand for this there is always going to be a supply and in this case when those species are put
+33:12
+into these laws the cause of that supplying that demand becomes much expensive
+Unintended Consequences
+33:21
+now unfortunately the species will have
+33:27
+unintended consequences when we fish them or we over exploit them
+33:32
+one of them is that they become smaller this is a paper by professor david conover
+33:38
+i think that he's in stony brook when he did this paper professor conover took this fish the
+33:45
+atlantic silver side and he started the populations all of them at the same size
+33:50
+he had these big aquariums three and they were normally three treatments and in one of the aquariums he got and
+33:56
+caught the smallest fish so he went through that aquarium and he killed all of the fish that were small what happened on that aquarium is that
+34:02
+the fish became bigger right so you are killing the smallest the ones are the ones that are big are
+34:09
+surviving then the individuals became bigger in the opposite in the aquarium
+34:15
+that you took the the largest fish the population the euros became smaller over time right so
+34:21
+you are killing the bigger fish the species doesn't want to become small and large anymore because they are dying the
+34:28
+ones that have the advantage to survive are the ones that are smaller so not surprising the populations became
+34:34
+smaller over time this is the number of generations you can see that the sizes of these populations shrunk quite
+34:39
+dramatically just four generations later in the middle is the fish that were cut randomly so
+34:45
+you were to catch fish randomly the population doesn't change the size
+34:50
+now when you think about fishing normally what we do as we establish in the class before was that we normally like to get
+34:56
+the fish are bigger or very abundant and normally what it means then is that and that
+35:02
+mostly what happens on the fisheries we normally get the largest fish so what is happening in the oceans is that the fish
+35:08
+are becoming smaller so here is an example this is a paper done by jeremy jackson from scripps
+35:15
+and he was my one of my supervisors there when i was at the university of california and he this is an example
+35:22
+with the cut i believe and this is the example that i told you earlier in which how how showing how this species back in
+35:28
+the day was easily four feet long 125 centimeters 120 centimeters which is
+35:34
+like this big and over time of us fishing these fish the biggest ones the populations became smaller so now that
+35:41
+those individuals are this big so basically one of the consequences of this massive fishing documented with
+35:48
+experiments and with real data is that the fish are becoming smaller right because again we are catching the bigger
+35:55
+fish now the problem of us living individuals that are a small
+36:00
+left is that when they reproduce normally they produce less eggs and eggs
+36:07
+that have less quality to survive so here is an example there are hundreds of papers documenting this you can see the
+36:14
+size of the fish against the size of the eggs and you can see that normally the fish that are bigger produce not only
+36:20
+bigger fish bigger sorry larger number of eggs but also eggs with more a oh a joke
+36:27
+in the in the x which allows the the the juveniles to survive even better just think about that right so you had a
+36:33
+humongous fish it has the capacity to produce bigger eggs and they need the juveniles had a
+36:40
+lot more food to feed from those eggs and they're going to grow better and survive better but when the fish become
+36:45
+smaller you get the opposite effect the offsprings that are produced are smaller so now unfortunately again
+36:53
+when the larp when they when the individuals that are being produced become smaller what it means is that they survive less
+37:01
+and here is the problem of what we were talking about overexploitation so naturally what
+37:08
+we humans do is that we are taking making the input smaller than the output right we
+37:13
+are killing a lot more individuals that that can be replenished from the population but one of the unintended
+37:20
+consequences of that is that the populations in return actually produce even less offspring
+37:27
+less quality offspring to replenish the ones that that we take out as a consequence
+37:34
+that is what is called an extinction vortex extinction vortex again refers to this
+37:39
+process in which the extinction of a species accelerates as a result of unintended consequence consequences in
+37:46
+this case again we are over exploiting meaning that we are killing more than the population can replenish but by
+37:53
+doing so we are living in those that are smaller that produce less eggs meaning that the population can actually
+37:59
+replenish even less than they could naturally do and that leads to again what is called an extinction vortex
+38:07
+now once the population gets to these smaller levels again when we deplete them
+38:13
+and the fact that they manage to produce osprins are smaller what the consequence
+38:18
+of that is that the population becomes smaller and there is always a risk with those populations that are a small
+38:25
+basically the consequence of that or you're having a population that has only three volts left is that there is less
+38:31
+genetic variability this genetic variability plays a fundamental role in sustaining the population
+38:37
+one of them is that it creates what is called genetic drift so when you only have three individuals there the the the
+38:45
+genetic makeup of the species can go in any direction so if there is a deleterious gene for instance that is
+38:53
+damaging to the population there is a chance that that gene can come in and and take the entire population in what
+38:59
+is called genetic grief and that normally happens on populations that are small populations are large
+39:04
+those genes are weird they just don't don't take the population on real
+39:09
+and random directions and again the consequence of that genetic drift talking about these
+39:15
+extinction vortices is that it makes the population even smaller
+39:21
+now the other risk of having populations that are small is that increases their their their risk of inbreeding
+39:27
+depression in brain depression means that you are reproducing brothers with sisters fathers with sisters so there is
+39:34
+a uh reproduction between close relatives and the problem of that is that if there are
+39:39
+genes on that population that are deleterious normally they are keep on what is called a recessive form right
+39:47
+the reason being again that if they are dominant the individual dies and that's the reason why many of these genes are recessive can remain on populations for
+39:54
+a very very long time is because again the euros that are in the habit die and unfortunately
+40:01
+fortunately when you have bigger populations they fail to dominate unfortunately when the populations become small the chances of these
+40:08
+deleterious genes to to prosper increases quite dramatically because again when you have
+40:14
+one recessive reproduced with another recessive they become dominant so that's how you can increase the expression of
+40:20
+genes that are deleterious and again that's the consequence of what is called ingredient depression is making well
+40:26
+among several other consequences is making these genes that are normally damaging to populations that are kept on
+40:32
+a recessive form to have a higher chance of being expressing again because you are reproducing close relatives so
+40:38
+recessive we are recessive gives you a dominant and that of course lead to the
+40:44
+population to become smaller so again i want you to appreciate all of these unintended consequences of us driving
+40:50
+the populations to these very low levels another consequence of a smaller
+40:55
+populations that have low genetic diversity is that they fail to have the genetic portfolio to cope with the
+41:02
+stressors right so if you don't have the genes and there is a whole new different
+41:08
+disturbance that came in then this there is a higher risk that the species can go extinct normally when you go you have
+41:14
+big populations species had a hard time to question because among all of those individuals
+41:19
+there there are gonna be a few of them with the genes capable of withstanding those stressors but when the populations
+41:25
+are small the chances of those genes being there is very small as well as a
+41:30
+result you maximize the chances of the species going to stem again
+41:36
+talking about here we are talking about populations being over fish which means that the populations are going to
+41:41
+decline themselves the populations themselves are going to create these salt mechanisms that make the populations grow even smaller and
+41:48
+smaller and the consequences of that then is that you are going to increase the risk of extinction of those species
+41:53
+via again in this case in a genetic
+42:00
+mechanisms in what is called extinction vertices
+42:05
+now another consequence of that's at the genetic level
+Deposition Ali Effect
+42:11
+where we just saw another consequence of you bringing populations to a very low level is what is called deposition ali
+42:18
+effect or inverse density dependence okay so i want you to remember those terms deposition or ali effect this term
+42:24
+is probably the one that you see the most common basically what it means is that when you have fewer individuals left the
+42:31
+chances of the individuals finding each other to reproduce reduces quite dramatically just think about for
+42:37
+instance sharks and the sharks normally are in thousands but now there are only few of them one in the pacific and the
+42:45
+other one on the other side of the oceans the side the chances of them coming together to reproduce decreases
+42:51
+quite dramatically and again that is what is called the alia fed and it happens everywhere like corals for
+42:56
+instance is another good example corals normally require um individuals to be closer to each other so that when they
+43:03
+produce the eggs on the water these eggs can come together with the sperm and reproduce but when they all spread the
+43:08
+corals that are left are so fueled and are so far apart when they reproduce and release their eggs and sperm that eggs
+43:15
+and sperm don't find each other in the water and the reason why again populations will decline as a
+43:22
+consequence of this ali effect and again is the fact that the individuals had a hard time finding each other to
+43:27
+reproduce here's an example there are hundreds of examples describing this aliyah fed by
+43:33
+here use our case example i believe this was in with corals and you can see how
+43:39
+when you get four individuals on this example the chances of
+43:44
+reproduction fertilization were one but when you get only one meal in this case
+43:49
+the chances of fertilization reduce almost by half again because one female
+43:55
+male alone has a hard time to produce enough offspring to colonize the females that are there but this is again just
+44:01
+one example and but it's again the principle of individuals having a hard time to find each other for them to to
+44:07
+to produce offsprings now unfortunately
+Alternative Equilibrium States
+44:13
+once these species start declining chances that they recover are very low and we look at this mechanism before
+44:18
+what is called alternative equilibrium states and we describe this let's just describe it again
+44:24
+because it becomes important here so it's the fact that you have populations already adapted to certain conditions
+44:30
+but when we come along and we fish those populations to a level the populations will try to adapt themselves
+44:38
+like in the example of the paper by professor conover when we went and killed the bigger fish the fish became
+44:43
+smaller that's adaptation the genes that are leading to larger individuals are disappearing from the population those
+44:50
+genes once they are gone there they will never come back so the population then will stabilize at that level and
+44:56
+obviously if we continue to do that there is going to be a loss of genetic diversity that leads to those three
+45:02
+factors that we talked earlier about ingredient depression lack of resistance and in genetic drift
+45:11
+and again the evidence for this one of the best papers is a paper by professor hutchins from the house that showed that
+45:18
+after you gave fish the time to recover the fish never managed to recover
+trophic cascades
+45:28
+now another consequence of fishing and we also saw this mechanism before is what is called a trophic cascade and
+45:34
+this is a game there are very few few of these papers and but this is this is one of the most important ones this is by
+45:40
+professor meyers basically a game i described this earlier is the fact that when you get populations being over fish
+45:46
+like in this case the sharks as we saw earlier basically we're just fishing these populations to the level that they
+45:52
+cannot replenish themselves they collapse as you can see the example here and the consequence of that is that the
+45:57
+populations that they feed on then is skyrocket here you can see the manta rays increasing all of the species of
+46:04
+manta rays increasing because the sharks are not there to eat them anymore and as a consequence of that whatever is
+46:10
+being eaten by the manta rays declines so again another unintended consequence of this overfishing is what
+46:18
+is called trophic cascades let's summarize the entire class so again we were talking about these
+Summary
+46:24
+individuals on a population and they are regulated via the input
+46:31
+that is based on natality and immigration and the output that is based on mortality and immigration those are
+46:36
+the natural processes that determine the size of the population then we come along humans
+46:42
+and now humans we become another source of the outputs we start to take individuals out and
+46:49
+we while nature allows to take some individuals without causing the populations to decline unfortunately we
+46:55
+do it too much into a process that is called overexploitation which again is taking
+47:00
+individuals beyond the natural levels of replenishment okay and the consequence of that the
+47:07
+populations will decline as you can expect obviously you are taking more than the duals can come in and this decline on these populations then cause
+47:14
+additional consequences on these populations like the possession or the aliyah fed they also have genetic
+47:20
+changes that leads to even further declines of the populations and they are also
+47:26
+what is called tropic cascades so here you can see the ramifications of us over exploiting these populations and then
+47:32
+why overexploitation is one of the leading causes on the declines of a species and how that is leading to the
+47:39
+higher risk of extinction
