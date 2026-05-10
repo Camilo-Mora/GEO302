@@ -15,6 +15,13 @@ title=document.getElementById('header');
 title.innerHTML = '<img src="images/Water, their lost, causes and consequences.jpg" alt="Test Image">' + title.innerHTML
 ```
 
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-kfnXVJ_XVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</center>
+
 
 This course reviews the fundamental processes that maintain populations, species, and communities in nature. It will then present how different human threats influence each of those patterns and processes, illustrating with up-to-date statistics the current extent of human threats, status of biodiversity worldwide and solutions to the current biological crisis of the planet.
 
@@ -22,6 +29,9 @@ This course reviews the fundamental processes that maintain populations, species
 **LEARNING OBJECTIVES**: 
 Students will be able to describe examples of how Earth systems are connected, how natural resources are created, used and misused by people; be able to explain some of the potential ecological outcomes of different traditional resource management practices; and integrate theory and evidence to evaluate tradeoffs between delivering food, energy, and water production to humanity while ensuring the long term viability of nature.
 ```
+
+
+
 
 
 [Sillabus](https://github.com/Camilo-Mora/GEO302/raw/main/main/Conservation Biology Sillabous.pdf) <br>
