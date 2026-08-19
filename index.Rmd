@@ -50,10 +50,6 @@ Here I explain your expected work in this course; the following page, provides e
 
 I recommend using Chrome, Edge or Firefox to submit your weekly Q&A reports (avoid Safari). 
 
-*   **One-Time Setup:** Get your Google API Key and save it in the iStudy App (Instructions below). 
-
-
-
 
 * **The Workflow:**
     1.  **Chapter Selection:** This course has 13 chapters **numbered** in the Table of Contents on the left sidebar (e.g., **1:**, **2:**); click the current week's chapter.
@@ -137,57 +133,6 @@ If you choose to take the exam, you need to submit excellent videos with all the
 Each week as you deliver your Q&A reports, the app will display your current grade.
 
 ![](images/GradingOnlineV1.png)
-
-## 🔑 How to Get Your Google API Key {-}
-
-
-To use the iStudy app, you need a free Google AI API key. Follow the steps below: 
-
-```{block2, type='rmdtip'}
-**Caution:** 
-  
-If you fail to collect tha API key after following the isntructions below, we came across a couple of issues:
-
-*Restricted Gmail account*: If you see any wording to this fact, try a different account or create a new one in the USA. UH accounts do not work. 
-
-
-*Suspicius request*: This warning appears in Apple computers with some browsers. Simply use a different browser.
-
-If you follow the instructions below and still fail to get the API, take a screenshot of the website where you hit a roadblock, paste it in [Gemini](https://gemini.google.com/) or [chatGPT](https://chatgpt.com), and write ***"Help me get a Google AI studio API key. I am stuck in the current page. What do I need to do next? Be brief and give me a solution I can do now"***
-```
-
-
-
-
-
-You will do this only once, as the key(s) get saved in your local browser.
-
-
-
-
-1.  **Go to Google AI Studio:**
-    Visit [aistudio.google.com](https://aistudio.google.com/) and log in with your **personal Gmail account** (UH emails do not work).
-
-2.  **Create a Project:**
-    *   2.1 Click on **"Projects"** (top left).
-    *   2.2 Click **"+ Create a new project"**.
-    *   On the popup window, name your project **"GEO302"** and click **"Create project"**.
-![](images/GoogleAIStudio.png)
-
-3.  **Generate the Key:**
-    *   3.1 Click `Get API key` (bottom left button).
-    *   3.2 Click `Create API key`.
-    *   On the popup window, select the **GEO302** project you just created.
-    *   Click **"Create key"**.
-![](images/GoogleAIStudiokey.png)
-
-4.  **Copy & Paste:**
-    *   Copy the generated key string.
-    *   4.2 Go to the iStudy app, click the **Settings (⚙️)** icon, and paste your key, and save it.
-
-![](images/iStudy.png)
-
-
 
 
 # Launch iStudy App {-}
