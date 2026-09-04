@@ -137,7 +137,7 @@ To read the image, check for instance, that to get an B+ you need to deliver all
 
 If you choose to take the final video exam, you need to submit excellent videos with all the responses for six chapter for an A-, eight chapters for an A, and 10 chapters for an A+. 
 
-Each week as you deliver your Q&A reports, the app will display your current grade.
+
 
 ![](images/GradingOnlineV1.png)
 
